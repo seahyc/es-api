@@ -40,7 +40,7 @@ const manifest = module.exports = {
                 }
             }
         }, {
-            plugin: 'hapi-auth-cookie'
+            plugin: 'hapi-auth-bearer-token'
         },{
             plugin: './plugins/swagger'
         },
