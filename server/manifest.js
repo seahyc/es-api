@@ -12,16 +12,12 @@ const manifest = module.exports = {
     },
 
     connections: [
-        {
-            host: Config.server.host,
-            port: Config.server.port,
-            labels: 'api',
-            routes: {
-                cors: {
-                    origin: ['http://localhost:2000']
-                }
-            }
-        }
+      {
+        host: Config.server.host,
+        port: Config.server.port,
+        labels: 'api',
+        routes: Config.server.routes
+      }
     ],
 
     registrations: [
