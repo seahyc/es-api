@@ -10,7 +10,7 @@ module.exports = {
         port: process.env.PORT || 2001,
         routes: {
             cors: {
-                origin: ['http://localhost:2000']
+                origin: ['http://localhost:2000', 'https://survey.glints.com']
             }
         }
     },
