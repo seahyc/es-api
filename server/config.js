@@ -24,7 +24,7 @@ module.exports = {
             mongoDb: {
                 adapter: 'mongo',
                 port: 27017,
-                host: 'mongo',
+                host: process.env.MONGO_HOST || 'mongo',
                 database: process.env.MONGO_DB,
                 user: process.env.MONGO_USERNAME,
                 password: process.env.MONGO_PASSWORD
