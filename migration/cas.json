@@ -1,0 +1,443 @@
+[
+  {
+    "band": "Very Low (Lowest 5%)",
+    "order": 1,
+    "category": "EP",
+    "upperBound": 0,
+    "lowerBound": 0
+  },
+  {
+    "band": "Very Low (Lowest 5%)",
+    "order": 1,
+    "category": "EL",
+    "upperBound": 0,
+    "lowerBound": 0
+  },
+  {
+    "band": "Very Low (Lowest 5%)",
+    "order": 1,
+    "category": "EE",
+    "upperBound": 0,
+    "lowerBound": 0
+  },
+  {
+    "band": "Very Low (Lowest 5%)",
+    "order": 1,
+    "category": "IP",
+    "upperBound": 0,
+    "lowerBound": 0
+  },
+  {
+    "band": "Very Low (Lowest 5%)",
+    "order": 1,
+    "category": "IL",
+    "upperBound": 0,
+    "lowerBound": 0
+  },
+  {
+    "band": "Very Low (Lowest 5%)",
+    "order": 1,
+    "category": "IE",
+    "upperBound": 0,
+    "lowerBound": 0
+  },
+  {
+    "band": "Very Low (Lowest 5%)",
+    "order": 1,
+    "category": "ME",
+    "upperBound": 0,
+    "lowerBound": 0
+  },
+  {
+    "band": "Very Low (Lowest 5%)",
+    "order": 1,
+    "category": "ML",
+    "upperBound": 0,
+    "lowerBound": 0
+  },
+  {
+    "band": "Very Low (Lowest 5%)",
+    "order": 1,
+    "category": "MP",
+    "upperBound": 0,
+    "lowerBound": 0
+  },
+  {
+    "band": "Low (6-20%)",
+    "order": 2,
+    "category": "EP",
+    "upperBound": 10,
+    "lowerBound": 1
+  },
+  {
+    "band": "Low (6-20%)",
+    "order": 2,
+    "category": "EL",
+    "upperBound": 12,
+    "lowerBound": 1
+  },
+  {
+    "band": "Low (6-20%)",
+    "order": 2,
+    "category": "EE",
+    "upperBound": 9,
+    "lowerBound": 1
+  },
+  {
+    "band": "Low (6-20%)",
+    "order": 2,
+    "category": "IP",
+    "upperBound": 11,
+    "lowerBound": 1
+  },
+  {
+    "band": "Low (6-20%)",
+    "order": 2,
+    "category": "IL",
+    "upperBound": 8,
+    "lowerBound": 1
+  },
+  {
+    "band": "Low (6-20%)",
+    "order": 2,
+    "category": "IE",
+    "upperBound": 5,
+    "lowerBound": 1
+  },
+  {
+    "band": "Low (6-20%)",
+    "order": 2,
+    "category": "ME",
+    "upperBound": 19,
+    "lowerBound": 1
+  },
+  {
+    "band": "Low (6-20%)",
+    "order": 2,
+    "category": "ML",
+    "upperBound": 25,
+    "lowerBound": 1
+  },
+  {
+    "band": "Low (6-20%)",
+    "order": 2,
+    "category": "MP",
+    "upperBound": 26,
+    "lowerBound": 1
+  },
+  {
+    "band": "Slightly Low (21-40%)",
+    "order": 3,
+    "category": "EP",
+    "upperBound": 14,
+    "lowerBound": 11
+  },
+  {
+    "band": "Slightly Low (21-40%)",
+    "order": 3,
+    "category": "EL",
+    "upperBound": 18,
+    "lowerBound": 13
+  },
+  {
+    "band": "Slightly Low (21-40%)",
+    "order": 3,
+    "category": "EE",
+    "upperBound": 15,
+    "lowerBound": 10
+  },
+  {
+    "band": "Slightly Low (21-40%)",
+    "order": 3,
+    "category": "IP",
+    "upperBound": 13,
+    "lowerBound": 12
+  },
+  {
+    "band": "Slightly Low (21-40%)",
+    "order": 3,
+    "category": "IL",
+    "upperBound": 10,
+    "lowerBound": 9
+  },
+  {
+    "band": "Slightly Low (21-40%)",
+    "order": 3,
+    "category": "IE",
+    "upperBound": 8,
+    "lowerBound": 6
+  },
+  {
+    "band": "Slightly Low (21-40%)",
+    "order": 3,
+    "category": "ME",
+    "upperBound": 23,
+    "lowerBound": 20
+  },
+  {
+    "band": "Slightly Low (21-40%)",
+    "order": 3,
+    "category": "ML",
+    "upperBound": 29,
+    "lowerBound": 26
+  },
+  {
+    "band": "Slightly Low (21-40%)",
+    "order": 3,
+    "category": "MP",
+    "upperBound": 30,
+    "lowerBound": 27
+  },
+  {
+    "band": "Average (41-60%)",
+    "order": 4,
+    "category": "EP",
+    "upperBound": 16,
+    "lowerBound": 15
+  },
+  {
+    "band": "Average (41-60%)",
+    "order": 4,
+    "category": "EL",
+    "upperBound": 22,
+    "lowerBound": 19
+  },
+  {
+    "band": "Average (41-60%)",
+    "order": 4,
+    "category": "EE",
+    "upperBound": 19,
+    "lowerBound": 16
+  },
+  {
+    "band": "Average (41-60%)",
+    "order": 4,
+    "category": "IP",
+    "upperBound": 15,
+    "lowerBound": 14
+  },
+  {
+    "band": "Average (41-60%)",
+    "order": 4,
+    "category": "IL",
+    "upperBound": 11,
+    "lowerBound": 11
+  },
+  {
+    "band": "Average (41-60%)",
+    "order": 4,
+    "category": "IE",
+    "upperBound": 11,
+    "lowerBound": 9
+  },
+  {
+    "band": "Average (41-60%)",
+    "order": 4,
+    "category": "ME",
+    "upperBound": 27,
+    "lowerBound": 24
+  },
+  {
+    "band": "Average (41-60%)",
+    "order": 4,
+    "category": "ML",
+    "upperBound": 31,
+    "lowerBound": 30
+  },
+  {
+    "band": "Average (41-60%)",
+    "order": 4,
+    "category": "MP",
+    "upperBound": 33,
+    "lowerBound": 31
+  },
+  {
+    "band": "Slightly High (61-80%)",
+    "order": 5,
+    "category": "EP",
+    "upperBound": 19,
+    "lowerBound": 17
+  },
+  {
+    "band": "Slightly High (61-80%)",
+    "order": 5,
+    "category": "EL",
+    "upperBound": 25,
+    "lowerBound": 23
+  },
+  {
+    "band": "Slightly High (61-80%)",
+    "order": 5,
+    "category": "EE",
+    "upperBound": 22,
+    "lowerBound": 20
+  },
+  {
+    "band": "Slightly High (61-80%)",
+    "order": 5,
+    "category": "IP",
+    "upperBound": 17,
+    "lowerBound": 16
+  },
+  {
+    "band": "Slightly High (61-80%)",
+    "order": 5,
+    "category": "IL",
+    "upperBound": 12,
+    "lowerBound": 12
+  },
+  {
+    "band": "Slightly High (61-80%)",
+    "order": 5,
+    "category": "IE",
+    "upperBound": 12,
+    "lowerBound": 12
+  },
+  {
+    "band": "Slightly High (61-80%)",
+    "order": 5,
+    "category": "ME",
+    "upperBound": 29,
+    "lowerBound": 28
+  },
+  {
+    "band": "Slightly High (61-80%)",
+    "order": 5,
+    "category": "ML",
+    "upperBound": 33,
+    "lowerBound": 32
+  },
+  {
+    "band": "Slightly High (61-80%)",
+    "order": 5,
+    "category": "MP",
+    "upperBound": 35,
+    "lowerBound": 34
+  },
+  {
+    "band": "High (81-95%)",
+    "order": 6,
+    "category": "EP",
+    "upperBound": 20,
+    "lowerBound": 20
+  },
+  {
+    "band": "High (81-95%)",
+    "order": 6,
+    "category": "EL",
+    "upperBound": 28,
+    "lowerBound": 26
+  },
+  {
+    "band": "High (81-95%)",
+    "order": 6,
+    "category": "EE",
+    "upperBound": 26,
+    "lowerBound": 23
+  },
+  {
+    "band": "High (81-95%)",
+    "order": 6,
+    "category": "IP",
+    "upperBound": 18,
+    "lowerBound": 18
+  },
+  {
+    "band": "High (81-95%)",
+    "order": 6,
+    "category": "IL",
+    "upperBound": 13,
+    "lowerBound": 13
+  },
+  {
+    "band": "High (81-95%)",
+    "order": 6,
+    "category": "IE",
+    "upperBound": 14,
+    "lowerBound": 13
+  },
+  {
+    "band": "High (81-95%)",
+    "order": 6,
+    "category": "ME",
+    "upperBound": 33,
+    "lowerBound": 30
+  },
+  {
+    "band": "High (81-95%)",
+    "order": 6,
+    "category": "ML",
+    "upperBound": 36,
+    "lowerBound": 34
+  },
+  {
+    "band": "High (81-95%)",
+    "order": 6,
+    "category": "MP",
+    "upperBound": 37,
+    "lowerBound": 36
+  },
+  {
+    "band": "Very High (Highest 5%)",
+    "order": 7,
+    "category": "EP",
+    "upperBound": 24,
+    "lowerBound": 21
+  },
+  {
+    "band": "Very High (Highest 5%)",
+    "order": 7,
+    "category": "EL",
+    "upperBound": 32,
+    "lowerBound": 29
+  },
+  {
+    "band": "Very High (Highest 5%)",
+    "order": 7,
+    "category": "EE",
+    "upperBound": 30,
+    "lowerBound": 27
+  },
+  {
+    "band": "Very High (Highest 5%)",
+    "order": 7,
+    "category": "IP",
+    "upperBound": 20,
+    "lowerBound": 19
+  },
+  {
+    "band": "Very High (Highest 5%)",
+    "order": 7,
+    "category": "IL",
+    "upperBound": 15,
+    "lowerBound": 14
+  },
+  {
+    "band": "Very High (Highest 5%)",
+    "order": 7,
+    "category": "IE",
+    "upperBound": 17,
+    "lowerBound": 15
+  },
+  {
+    "band": "Very High (Highest 5%)",
+    "order": 7,
+    "category": "ME",
+    "upperBound": 38,
+    "lowerBound": 34
+  },
+  {
+    "band": "Very High (Highest 5%)",
+    "order": 7,
+    "category": "ML",
+    "upperBound": 40,
+    "lowerBound": 37
+  },
+  {
+    "band": "Very High (Highest 5%)",
+    "order": 7,
+    "category": "MP",
+    "upperBound": 41,
+    "lowerBound": 38
+  }
+]

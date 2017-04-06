@@ -1,0 +1,23 @@
+[
+  {
+    "code": "EG",
+    "name": "Entrepreneurial Profile",
+    "baseScore": 0,
+    "increment": 1,
+    "survey": 1
+  },
+  {
+    "code": "CAS",
+    "name": "Career Aspirations Survey",
+    "baseScore": 0,
+    "increment": 1,
+    "survey": 1
+  },
+  {
+    "code": "GRIT",
+    "name": "Grit",
+    "baseScore": 3,
+    "increment": 0.1,
+    "survey": 1
+  }
+]

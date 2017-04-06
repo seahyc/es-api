@@ -1,0 +1,77 @@
+[
+  {
+    "code": "OB",
+    "name": "Objective-driven",
+    "test": "EG"
+  },
+  {
+    "code": "PR",
+    "name": "Process-driven",
+    "test": "EG"
+  },
+  {
+    "code": "OP",
+    "name": "Opportunity-driven",
+    "test": "EG"
+  },
+  {
+    "code": "PE",
+    "name": "People-driven",
+    "test": "EG"
+  },
+  {
+    "code": "ME",
+    "name": "Motivation - Entrepreneur",
+    "test": "CAS"
+  },
+  {
+    "code": "ML",
+    "name": "Motivation - Leader",
+    "test": "CAS"
+  },
+  {
+    "code": "MP",
+    "name": "Motivation - Professional",
+    "test": "CAS"
+  },
+  {
+    "code": "IE",
+    "name": "Intent - Entrepreneur",
+    "test": "CAS"
+  },
+  {
+    "code": "IL",
+    "name": "Intent - Leader",
+    "test": "CAS"
+  },
+  {
+    "code": "IP",
+    "name": "Intent - Professional",
+    "test": "CAS"
+  },
+  {
+    "code": "EE",
+    "name": "Efficacy - Entrepreneur",
+    "test": "CAS"
+  },
+  {
+    "code": "EL",
+    "name": "Efficacy - Leader",
+    "test": "CAS"
+  },
+  {
+    "code": "EP",
+    "name": "Efficacy - Professional",
+    "test": "CAS"
+  },
+  {
+    "code": "P",
+    "name": "Perseverance of Effort",
+    "test": "GRIT"
+  },
+  {
+    "code": "CI",
+    "name": "Consistency of Interests",
+    "test": "GRIT"
+  }
+]

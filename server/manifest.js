@@ -15,7 +15,12 @@ const manifest = module.exports = {
         {
             host: Config.server.host,
             port: Config.server.port,
-            labels: 'api'
+            labels: 'api',
+            routes: {
+                cors: {
+                    origin: ['http://localhost:2000']
+                }
+            }
         }
     ],
 
@@ -34,8 +39,9 @@ const manifest = module.exports = {
                     tags: ['bassmaster', 'batch']
                 }
             }
-        },
-        {
+        }, {
+            plugin: 'hapi-auth-cookie'
+        },{
             plugin: './plugins/swagger'
         },
         {

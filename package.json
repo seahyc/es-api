@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate-api",
+  "name": "es-api",
   "version": "0.3.0",
-  "description": "Boilerplate API",
+  "description": "ES API",
   "main": "lib/index.js",
   "scripts": {
     "start": "node_modules/nodemon/bin/nodemon.js server",
@@ -20,8 +20,10 @@
   "homepage": "https://github.com/devinivy/boilerplate-api",
   "dependencies": {
     "bassmaster": "2.x.x",
+    "bcrypt": "^1.0.2",
     "boom": "4.x.x",
     "dogwater": ">=2.2.0 <3",
+    "eslint": "^3.19.0",
     "glue": "4.x.x",
     "handlebars": "4.x.x",
     "hapi": "16.x.x",
@@ -30,13 +32,18 @@
     "hoek": "4.x.x",
     "inert": "4.x.x",
     "joi": "10.x.x",
+    "jsonfile": "^2.4.0",
     "labbable": "2.x.x",
+    "lodash": "^4.17.4",
+    "node-mandrill": "^1.0.1",
+    "parse-xlsx": "0.0.6",
     "sails-mongo": "^0.12.2",
     "shortid": "^2.2.8",
     "vision": "4.x.x",
     "waterline": "0.12.x"
   },
   "devDependencies": {
+    "babel-eslint": "^7.2.1",
     "code": "3.x.x",
     "eslint-config-hapi": "10.x.x",
     "eslint-plugin-hapi": "4.x.x",

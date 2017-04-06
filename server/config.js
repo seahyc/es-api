@@ -7,7 +7,12 @@ module.exports = {
 
     server: {
         host: '0.0.0.0',
-        port: process.env.PORT || 2001
+        port: process.env.PORT || 2001,
+        routes: {
+            cors: {
+                origin: ['http://localhost:2000']
+            }
+        }
     },
 
     main: {
@@ -20,7 +25,9 @@ module.exports = {
                 adapter: 'mongo',
                 port: 27017,
                 host: 'mongo',
-                database: 'es'
+                database: process.env.MONGO_DB,
+                user: process.env.MONGO_USERNAME,
+                password: process.env.MONGO_PASSWORD
             }
         },
         adapters: {
