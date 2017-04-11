@@ -36,7 +36,7 @@ const manifest = module.exports = {
                 }
             }
         }, {
-            plugin: 'hapi-auth-bearer-token'
+            plugin: 'hapi-auth-jwt2'
         },{
             plugin: './plugins/swagger'
         },
