@@ -1,6 +1,6 @@
 <img src="http://i.imgur.com/LKv5XMA.jpg" />
 
-# Boilerplate API
+# ES-API
 
 A general purpose boilerplate for building APIs with hapi
 
