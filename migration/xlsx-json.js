@@ -2,6 +2,7 @@ const Parser = require('parse-xlsx');
 const jsonfile = require('jsonfile');
 const questionnaire = new Parser('questions.xlsx', 'Questionnaire');
 const _ = require('lodash');
+const personalQuestions = jsonfile.readFileSync('personal-questions.json');
 
 function transformPolarity(polarity) {
     switch (polarity) {
@@ -16,8 +17,7 @@ function transformPolarity(polarity) {
 
 const questions = questionnaire.records.map(question => {
     const newQuestion = {
-        id: parseInt(question.Index) + 11,
-        order: parseInt(question.Index) + 11,
+        _id: parseInt(question.Index) + personalQuestions.length,
         type: 'scale',
         question: question.Questions,
         test: question.Test,
@@ -25,7 +25,8 @@ const questions = questionnaire.records.map(question => {
             {
                 'order': 1,
                 'label': 1,
-                'value': 1
+                'value': 1,
+                'text': 'Strongly disagree'
             },
             {
                 'order': 2,
@@ -45,7 +46,8 @@ const questions = questionnaire.records.map(question => {
             {
                 'order': 5,
                 'label': 5,
-                'value': 5
+                'value': 5,
+                'text': 'Strongly agree'
             }
         ]
     };
@@ -80,6 +82,7 @@ testCodes = testCodes.map(code => {
         name: test['Test Name'],
         baseScore: parseInt(test['Base']),
         increment: parseFloat(test['Increment']),
+        survey: 1
     };
 });
 
@@ -92,24 +95,25 @@ const bands = [];
 
 CAS.records.forEach(cas => {
     for (const col in cas) {
-        if (cas.hasOwnProperty(col) && col !== 'Band' && col !== 'Order') {
+        if (cas.hasOwnProperty(col) && col !== 'Band' && col !== 'Order' && col !== 'Percentile') {
             bands.push({
                 band: cas.Band,
                 order: parseInt(cas.Order),
+                percentile: parseInt(cas.Percentile),
                 category: col,
-                upperBound: parseInt(cas[col])
+                lowerBound: parseInt(cas[col])
             });
         }
     }
 });
 
 bands.map((band, index, array) => {
-    const lowerBand = _.find(array, {
+    const upperBand = _.find(array, {
         category: band.category,
-        order: band.order - 1
+        order: band.order + 1
     });
 
-    band.lowerBound = lowerBand ? lowerBand.upperBound + 1 : 0;
+    band.upperBound = upperBand ? upperBand.lowerBound - 1 : 100;
     return band;
 });
 

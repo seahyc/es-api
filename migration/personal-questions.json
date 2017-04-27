@@ -2,16 +2,14 @@
   {
     "type": "input",
     "_id": 1,
-    "order": 1,
     "question": "Email",
-    "regex": "^\\w+@[a-zA-Z_]+?\\.[a-zA-Z]{2,3}$",
+    "regex": "^[\\w.+-]+@[a-zA-Z_-]+?\\.[a-zA-Z]{2,3}(?:\\.[a-zA-Z]{2,3})?$",
     "errorMessage": "Hmm, this email isn't valid...",
     "personalAttribute": "email"
   },
   {
     "type": "input",
     "_id": 2,
-    "order": 2,
     "question": "First Name",
     "regex": "^\\D+$",
     "errorMessage": "Hey hey, no digits in your name yo!",
@@ -20,7 +18,6 @@
   {
     "type": "input",
     "_id": 3,
-    "order": 3,
     "question": "Last Name",
     "regex": "^\\D+$",
     "errorMessage": "Are you sure that's your real name?",
@@ -29,28 +26,26 @@
   {
     "type": "mcq",
     "_id": 4,
-    "order": 4,
     "question": "What is your gender?",
     "personalAttribute": "gender",
     "options": [
       {
         "order": 1,
         "label": "Male",
-        "value": "male"
+        "value": "Male"
       },
       {
         "order": 2,
         "label": "Female",
-        "value": "female"
+        "value": "Female"
       }
     ]
   },
   {
     "type": "dropdown",
     "_id": 5,
-    "order": 5,
     "question": "What is your birth year?",
-    "personalAttribute": "age",
+    "personalAttribute": "birthYear",
     "options": [
       {
         "order": 1,
@@ -487,1231 +482,1229 @@
   {
     "type": "dropdown",
     "_id": 6,
-    "order": 6,
     "question": "What is your nationality?",
     "personalAttribute": "nationality",
     "options": [
       {
         "order": 196,
         "label": "Singapore",
-        "value": "SG"
+        "value": "Singapore"
       },
       {
         "order": 133,
         "label": "Malaysia",
-        "value": "MY"
+        "value": "Malaysia"
       },
       {
         "order": 102,
         "label": "Indonesia",
-        "value": "ID"
+        "value": "Indonesia"
       },
       {
         "order": 1,
         "label": "Afghanistan",
-        "value": "AF"
+        "value": "Afghanistan"
       },
       {
         "order": 2,
         "label": "Aland Islands",
-        "value": "AX"
+        "value": "Aland Islands"
       },
       {
         "order": 3,
         "label": "Albania",
-        "value": "AL"
+        "value": "Albania"
       },
       {
         "order": 4,
         "label": "Algeria",
-        "value": "DZ"
+        "value": "Algeria"
       },
       {
         "order": 5,
         "label": "American Samoa",
-        "value": "AS"
+        "value": "American Samoa"
       },
       {
         "order": 6,
         "label": "Andorra",
-        "value": "AD"
+        "value": "Andorra"
       },
       {
         "order": 7,
         "label": "Angola",
-        "value": "AO"
+        "value": "Angola"
       },
       {
         "order": 8,
         "label": "Anguilla",
-        "value": "AI"
+        "value": "Anguilla"
       },
       {
         "order": 9,
         "label": "Antarctica",
-        "value": "AQ"
+        "value": "Antarctica"
       },
       {
         "order": 10,
         "label": "Antigua and Barbuda",
-        "value": "AG"
+        "value": "Antigua and Barbuda"
       },
       {
         "order": 11,
         "label": "Argentina",
-        "value": "AR"
+        "value": "Argentina"
       },
       {
         "order": 12,
         "label": "Armenia",
-        "value": "AM"
+        "value": "Armenia"
       },
       {
         "order": 13,
         "label": "Aruba",
-        "value": "AW"
+        "value": "Aruba"
       },
       {
         "order": 14,
         "label": "Australia",
-        "value": "AU"
+        "value": "Australia"
       },
       {
         "order": 15,
         "label": "Austria",
-        "value": "AT"
+        "value": "Austria"
       },
       {
         "order": 16,
         "label": "Azerbaijan",
-        "value": "AZ"
+        "value": "Azerbaijan"
       },
       {
         "order": 17,
         "label": "Bahamas",
-        "value": "BS"
+        "value": "Bahamas"
       },
       {
         "order": 18,
         "label": "Bahrain",
-        "value": "BH"
+        "value": "Bahrain"
       },
       {
         "order": 19,
         "label": "Bangladesh",
-        "value": "BD"
+        "value": "Bangladesh"
       },
       {
         "order": 20,
         "label": "Barbados",
-        "value": "BB"
+        "value": "Barbados"
       },
       {
         "order": 21,
         "label": "Belarus",
-        "value": "BY"
+        "value": "Belarus"
       },
       {
         "order": 22,
         "label": "Belgium",
-        "value": "BE"
+        "value": "Belgium"
       },
       {
         "order": 23,
         "label": "Belize",
-        "value": "BZ"
+        "value": "Belize"
       },
       {
         "order": 24,
         "label": "Benin",
-        "value": "BJ"
+        "value": "Benin"
       },
       {
         "order": 25,
         "label": "Bermuda",
-        "value": "BM"
+        "value": "Bermuda"
       },
       {
         "order": 26,
         "label": "Bhutan",
-        "value": "BT"
+        "value": "Bhutan"
       },
       {
         "order": 27,
         "label": "Bolivia",
-        "value": "BO"
+        "value": "Bolivia"
       },
       {
         "order": 28,
         "label": "Bosnia and Herzegovina",
-        "value": "BA"
+        "value": "Bosnia and Herzegovina"
       },
       {
         "order": 29,
         "label": "Botswana",
-        "value": "BW"
+        "value": "Botswana"
       },
       {
         "order": 30,
         "label": "Bouvet Island",
-        "value": "BV"
+        "value": "Bouvet Island"
       },
       {
         "order": 31,
         "label": "Brazil",
-        "value": "BR"
+        "value": "Brazil"
       },
       {
         "order": 32,
         "label": "British Indian Ocean Territory",
-        "value": "IO"
+        "value": "British Indian Ocean Territory"
       },
       {
         "order": 33,
         "label": "Brunei Darussalam",
-        "value": "BN"
+        "value": "Brunei Darussalam"
       },
       {
         "order": 34,
         "label": "Bulgaria",
-        "value": "BG"
+        "value": "Bulgaria"
       },
       {
         "order": 35,
         "label": "Burkina Faso",
-        "value": "BF"
+        "value": "Burkina Faso"
       },
       {
         "order": 36,
         "label": "Burundi",
-        "value": "BI"
+        "value": "Burundi"
       },
       {
         "order": 37,
         "label": "Cambodia",
-        "value": "KH"
+        "value": "Cambodia"
       },
       {
         "order": 38,
         "label": "Cameroon",
-        "value": "CM"
+        "value": "Cameroon"
       },
       {
         "order": 39,
         "label": "Canada",
-        "value": "CA"
+        "value": "Canada"
       },
       {
         "order": 40,
         "label": "Cape Verde",
-        "value": "CV"
+        "value": "Cape Verde"
       },
       {
         "order": 41,
         "label": "Cayman Islands",
-        "value": "KY"
+        "value": "Cayman Islands"
       },
       {
         "order": 42,
         "label": "Central African Republic",
-        "value": "CF"
+        "value": "Central African Republic"
       },
       {
         "order": 43,
         "label": "Chad",
-        "value": "TD"
+        "value": "Chad"
       },
       {
         "order": 44,
         "label": "Chile",
-        "value": "CL"
+        "value": "Chile"
       },
       {
         "order": 45,
         "label": "China",
-        "value": "CN"
+        "value": "China"
       },
       {
         "order": 46,
         "label": "Christmas Island",
-        "value": "CX"
+        "value": "Christmas Island"
       },
       {
         "order": 47,
         "label": "Cocos (Keeling) Islands",
-        "value": "CC"
+        "value": "Cocos (Keeling) Islands"
       },
       {
         "order": 48,
         "label": "Colombia",
-        "value": "CO"
+        "value": "Colombia"
       },
       {
         "order": 49,
         "label": "Comoros",
-        "value": "KM"
+        "value": "Comoros"
       },
       {
         "order": 50,
         "label": "Congo",
-        "value": "CG"
+        "value": "Congo"
       },
       {
         "order": 51,
         "label": "Congo, The Democratic Republic of the",
-        "value": "CD"
+        "value": "Congo, The Democratic Republic of the"
       },
       {
         "order": 52,
         "label": "Cook Islands",
-        "value": "CK"
+        "value": "Cook Islands"
       },
       {
         "order": 53,
         "label": "Costa Rica",
-        "value": "CR"
+        "value": "Costa Rica"
       },
       {
         "order": 54,
         "label": "Cote D\"Ivoire",
-        "value": "CI"
+        "value": "Cote D\"Ivoire"
       },
       {
         "order": 55,
         "label": "Croatia",
-        "value": "HR"
+        "value": "Croatia"
       },
       {
         "order": 56,
         "label": "Cuba",
-        "value": "CU"
+        "value": "Cuba"
       },
       {
         "order": 57,
         "label": "Cyprus",
-        "value": "CY"
+        "value": "Cyprus"
       },
       {
         "order": 58,
         "label": "Czech Republic",
-        "value": "CZ"
+        "value": "Czech Republic"
       },
       {
         "order": 59,
         "label": "Denmark",
-        "value": "DK"
+        "value": "Denmark"
       },
       {
         "order": 60,
         "label": "Djibouti",
-        "value": "DJ"
+        "value": "Djibouti"
       },
       {
         "order": 61,
         "label": "Dominica",
-        "value": "DM"
+        "value": "Dominica"
       },
       {
         "order": 62,
         "label": "Dominican Republic",
-        "value": "DO"
+        "value": "Dominican Republic"
       },
       {
         "order": 63,
         "label": "Ecuador",
-        "value": "EC"
+        "value": "Ecuador"
       },
       {
         "order": 64,
         "label": "Egypt",
-        "value": "EG"
+        "value": "Egypt"
       },
       {
         "order": 65,
         "label": "El Salvador",
-        "value": "SV"
+        "value": "El Salvador"
       },
       {
         "order": 66,
         "label": "Equatorial Guinea",
-        "value": "GQ"
+        "value": "Equatorial Guinea"
       },
       {
         "order": 67,
         "label": "Eritrea",
-        "value": "ER"
+        "value": "Eritrea"
       },
       {
         "order": 68,
         "label": "Estonia",
-        "value": "EE"
+        "value": "Estonia"
       },
       {
         "order": 69,
         "label": "Ethiopia",
-        "value": "ET"
+        "value": "Ethiopia"
       },
       {
         "order": 70,
         "label": "Falkland Islands (Malvinas)",
-        "value": "FK"
+        "value": "Falkland Islands (Malvinas)"
       },
       {
         "order": 71,
         "label": "Faroe Islands",
-        "value": "FO"
+        "value": "Faroe Islands"
       },
       {
         "order": 72,
         "label": "Fiji",
-        "value": "FJ"
+        "value": "Fiji"
       },
       {
         "order": 73,
         "label": "Finland",
-        "value": "FI"
+        "value": "Finland"
       },
       {
         "order": 74,
         "label": "France",
-        "value": "FR"
+        "value": "France"
       },
       {
         "order": 75,
         "label": "French Guiana",
-        "value": "GF"
+        "value": "French Guiana"
       },
       {
         "order": 76,
         "label": "French Polynesia",
-        "value": "PF"
+        "value": "French Polynesia"
       },
       {
         "order": 77,
         "label": "French Southern Territories",
-        "value": "TF"
+        "value": "French Southern Territories"
       },
       {
         "order": 78,
         "label": "Gabon",
-        "value": "GA"
+        "value": "Gabon"
       },
       {
         "order": 79,
         "label": "Gambia",
-        "value": "GM"
+        "value": "Gambia"
       },
       {
         "order": 80,
         "label": "Georgia",
-        "value": "GE"
+        "value": "Georgia"
       },
       {
         "order": 81,
         "label": "Germany",
-        "value": "DE"
+        "value": "Germany"
       },
       {
         "order": 82,
         "label": "Ghana",
-        "value": "GH"
+        "value": "Ghana"
       },
       {
         "order": 83,
         "label": "Gibraltar",
-        "value": "GI"
+        "value": "Gibraltar"
       },
       {
         "order": 84,
         "label": "Greece",
-        "value": "GR"
+        "value": "Greece"
       },
       {
         "order": 85,
         "label": "Greenland",
-        "value": "GL"
+        "value": "Greenland"
       },
       {
         "order": 86,
         "label": "Grenada",
-        "value": "GD"
+        "value": "Grenada"
       },
       {
         "order": 87,
         "label": "Guadeloupe",
-        "value": "GP"
+        "value": "Guadeloupe"
       },
       {
         "order": 88,
         "label": "Guam",
-        "value": "GU"
+        "value": "Guam"
       },
       {
         "order": 89,
         "label": "Guatemala",
-        "value": "GT"
+        "value": "Guatemala"
       },
       {
         "order": 90,
         "label": "Guernsey",
-        "value": "GG"
+        "value": "Guernsey"
       },
       {
         "order": 91,
         "label": "Guinea",
-        "value": "GN"
+        "value": "Guinea"
       },
       {
         "order": 92,
         "label": "Guinea-Bissau",
-        "value": "GW"
+        "value": "Guinea-Bissau"
       },
       {
         "order": 93,
         "label": "Guyana",
-        "value": "GY"
+        "value": "Guyana"
       },
       {
         "order": 94,
         "label": "Haiti",
-        "value": "HT"
+        "value": "Haiti"
       },
       {
         "order": 95,
         "label": "Heard Island and Mcdonald Islands",
-        "value": "HM"
+        "value": "Heard Island and Mcdonald Islands"
       },
       {
         "order": 96,
         "label": "Holy See (Vatican City State)",
-        "value": "VA"
+        "value": "Holy See (Vatican City State)"
       },
       {
         "order": 97,
         "label": "Honduras",
-        "value": "HN"
+        "value": "Honduras"
       },
       {
         "order": 98,
         "label": "Hong Kong",
-        "value": "HK"
+        "value": "Hong Kong"
       },
       {
         "order": 99,
         "label": "Hungary",
-        "value": "HU"
+        "value": "Hungary"
       },
       {
         "order": 100,
         "label": "Iceland",
-        "value": "IS"
+        "value": "Iceland"
       },
       {
         "order": 101,
         "label": "India",
-        "value": "IN"
+        "value": "India"
       },
       {
         "order": 103,
         "label": "Iran, Islamic Republic Of",
-        "value": "IR"
+        "value": "Iran, Islamic Republic Of"
       },
       {
         "order": 104,
         "label": "Iraq",
-        "value": "IQ"
+        "value": "Iraq"
       },
       {
         "order": 105,
         "label": "Ireland",
-        "value": "IE"
+        "value": "Ireland"
       },
       {
         "order": 106,
         "label": "Isle of Man",
-        "value": "IM"
+        "value": "Isle of Man"
       },
       {
         "order": 107,
         "label": "Israel",
-        "value": "IL"
+        "value": "Israel"
       },
       {
         "order": 108,
         "label": "Italy",
-        "value": "IT"
+        "value": "Italy"
       },
       {
         "order": 109,
         "label": "Jamaica",
-        "value": "JM"
+        "value": "Jamaica"
       },
       {
         "order": 110,
         "label": "Japan",
-        "value": "JP"
+        "value": "Japan"
       },
       {
         "order": 111,
         "label": "Jersey",
-        "value": "JE"
+        "value": "Jersey"
       },
       {
         "order": 112,
         "label": "Jordan",
-        "value": "JO"
+        "value": "Jordan"
       },
       {
         "order": 113,
         "label": "Kazakhstan",
-        "value": "KZ"
+        "value": "Kazakhstan"
       },
       {
         "order": 114,
         "label": "Kenya",
-        "value": "KE"
+        "value": "Kenya"
       },
       {
         "order": 115,
         "label": "Kiribati",
-        "value": "KI"
+        "value": "Kiribati"
       },
       {
         "order": 116,
         "label": "Korea, Democratic People\"S Republic of",
-        "value": "KP"
+        "value": "Korea, Democratic People\"S Republic of"
       },
       {
         "order": 117,
         "label": "Korea, Republic of",
-        "value": "KR"
+        "value": "Korea, Republic of"
       },
       {
         "order": 118,
         "label": "Kuwait",
-        "value": "KW"
+        "value": "Kuwait"
       },
       {
         "order": 119,
         "label": "Kyrgyzstan",
-        "value": "KG"
+        "value": "Kyrgyzstan"
       },
       {
         "order": 120,
         "label": "Lao People\"S Democratic Republic",
-        "value": "LA"
+        "value": "Lao People\"S Democratic Republic"
       },
       {
         "order": 121,
         "label": "Latvia",
-        "value": "LV"
+        "value": "Latvia"
       },
       {
         "order": 122,
         "label": "Lebanon",
-        "value": "LB"
+        "value": "Lebanon"
       },
       {
         "order": 123,
         "label": "Lesotho",
-        "value": "LS"
+        "value": "Lesotho"
       },
       {
         "order": 124,
         "label": "Liberia",
-        "value": "LR"
+        "value": "Liberia"
       },
       {
         "order": 125,
         "label": "Libyan Arab Jamahiriya",
-        "value": "LY"
+        "value": "Libyan Arab Jamahiriya"
       },
       {
         "order": 126,
         "label": "Liechtenstein",
-        "value": "LI"
+        "value": "Liechtenstein"
       },
       {
         "order": 127,
         "label": "Lithuania",
-        "value": "LT"
+        "value": "Lithuania"
       },
       {
         "order": 128,
         "label": "Luxembourg",
-        "value": "LU"
+        "value": "Luxembourg"
       },
       {
         "order": 129,
         "label": "Macao",
-        "value": "MO"
+        "value": "Macao"
       },
       {
         "order": 130,
         "label": "Macedonia, The Former Yugoslav Republic of",
-        "value": "MK"
+        "value": "Macedonia, The Former Yugoslav Republic of"
       },
       {
         "order": 131,
         "label": "Madagascar",
-        "value": "MG"
+        "value": "Madagascar"
       },
       {
         "order": 132,
         "label": "Malawi",
-        "value": "MW"
+        "value": "Malawi"
       },
       {
         "order": 134,
         "label": "Maldives",
-        "value": "MV"
+        "value": "Maldives"
       },
       {
         "order": 135,
         "label": "Mali",
-        "value": "ML"
+        "value": "Mali"
       },
       {
         "order": 136,
         "label": "Malta",
-        "value": "MT"
+        "value": "Malta"
       },
       {
         "order": 137,
         "label": "Marshall Islands",
-        "value": "MH"
+        "value": "Marshall Islands"
       },
       {
         "order": 138,
         "label": "Martinique",
-        "value": "MQ"
+        "value": "Martinique"
       },
       {
         "order": 139,
         "label": "Mauritania",
-        "value": "MR"
+        "value": "Mauritania"
       },
       {
         "order": 140,
         "label": "Mauritius",
-        "value": "MU"
+        "value": "Mauritius"
       },
       {
         "order": 141,
         "label": "Mayotte",
-        "value": "YT"
+        "value": "Mayotte"
       },
       {
         "order": 142,
         "label": "Mexico",
-        "value": "MX"
+        "value": "Mexico"
       },
       {
         "order": 143,
         "label": "Micronesia, Federated States of",
-        "value": "FM"
+        "value": "Micronesia, Federated States of"
       },
       {
         "order": 144,
         "label": "Moldova, Republic of",
-        "value": "MD"
+        "value": "Moldova, Republic of"
       },
       {
         "order": 145,
         "label": "Monaco",
-        "value": "MC"
+        "value": "Monaco"
       },
       {
         "order": 146,
         "label": "Mongolia",
-        "value": "MN"
+        "value": "Mongolia"
       },
       {
         "order": 147,
         "label": "Montserrat",
-        "value": "MS"
+        "value": "Montserrat"
       },
       {
         "order": 148,
         "label": "Morocco",
-        "value": "MA"
+        "value": "Morocco"
       },
       {
         "order": 149,
         "label": "Mozambique",
-        "value": "MZ"
+        "value": "Mozambique"
       },
       {
         "order": 150,
         "label": "Myanmar",
-        "value": "MM"
+        "value": "Myanmar"
       },
       {
         "order": 151,
         "label": "Namibia",
-        "value": "NA"
+        "value": "Namibia"
       },
       {
         "order": 152,
         "label": "Nauru",
-        "value": "NR"
+        "value": "Nauru"
       },
       {
         "order": 153,
         "label": "Nepal",
-        "value": "NP"
+        "value": "Nepal"
       },
       {
         "order": 154,
         "label": "Netherlands",
-        "value": "NL"
+        "value": "Netherlands"
       },
       {
         "order": 155,
         "label": "Netherlands Antilles",
-        "value": "AN"
+        "value": "Netherlands Antilles"
       },
       {
         "order": 156,
         "label": "New Caledonia",
-        "value": "NC"
+        "value": "New Caledonia"
       },
       {
         "order": 157,
         "label": "New Zealand",
-        "value": "NZ"
+        "value": "New Zealand"
       },
       {
         "order": 158,
         "label": "Nicaragua",
-        "value": "NI"
+        "value": "Nicaragua"
       },
       {
         "order": 159,
         "label": "Niger",
-        "value": "NE"
+        "value": "Niger"
       },
       {
         "order": 160,
         "label": "Nigeria",
-        "value": "NG"
+        "value": "Nigeria"
       },
       {
         "order": 161,
         "label": "Niue",
-        "value": "NU"
+        "value": "Niue"
       },
       {
         "order": 162,
         "label": "Norfolk Island",
-        "value": "NF"
+        "value": "Norfolk Island"
       },
       {
         "order": 163,
         "label": "Northern Mariana Islands",
-        "value": "MP"
+        "value": "Northern Mariana Islands"
       },
       {
         "order": 164,
         "label": "Norway",
-        "value": "NO"
+        "value": "Norway"
       },
       {
         "order": 165,
         "label": "Oman",
-        "value": "OM"
+        "value": "Oman"
       },
       {
         "order": 166,
         "label": "Pakistan",
-        "value": "PK"
+        "value": "Pakistan"
       },
       {
         "order": 167,
         "label": "Palau",
-        "value": "PW"
+        "value": "Palau"
       },
       {
         "order": 168,
         "label": "Palestinian Territory, Occupied",
-        "value": "PS"
+        "value": "Palestinian Territory, Occupied"
       },
       {
         "order": 169,
         "label": "Panama",
-        "value": "PA"
+        "value": "Panama"
       },
       {
         "order": 170,
         "label": "Papua New Guinea",
-        "value": "PG"
+        "value": "Papua New Guinea"
       },
       {
         "order": 171,
         "label": "Paraguay",
-        "value": "PY"
+        "value": "Paraguay"
       },
       {
         "order": 172,
         "label": "Peru",
-        "value": "PE"
+        "value": "Peru"
       },
       {
         "order": 173,
         "label": "Philippines",
-        "value": "PH"
+        "value": "Philippines"
       },
       {
         "order": 174,
         "label": "Pitcairn",
-        "value": "PN"
+        "value": "Pitcairn"
       },
       {
         "order": 175,
         "label": "Poland",
-        "value": "PL"
+        "value": "Poland"
       },
       {
         "order": 176,
         "label": "Portugal",
-        "value": "PT"
+        "value": "Portugal"
       },
       {
         "order": 177,
         "label": "Puerto Rico",
-        "value": "PR"
+        "value": "Puerto Rico"
       },
       {
         "order": 178,
         "label": "Qatar",
-        "value": "QA"
+        "value": "Qatar"
       },
       {
         "order": 179,
         "label": "Reunion",
-        "value": "RE"
+        "value": "Reunion"
       },
       {
         "order": 180,
         "label": "Romania",
-        "value": "RO"
+        "value": "Romania"
       },
       {
         "order": 181,
         "label": "Russian Federation",
-        "value": "RU"
+        "value": "Russian Federation"
       },
       {
         "order": 182,
         "label": "RWANDA",
-        "value": "RW"
+        "value": "RWANDA"
       },
       {
         "order": 183,
         "label": "Saint Helena",
-        "value": "SH"
+        "value": "Saint Helena"
       },
       {
         "order": 184,
         "label": "Saint Kitts and Nevis",
-        "value": "KN"
+        "value": "Saint Kitts and Nevis"
       },
       {
         "order": 185,
         "label": "Saint Lucia",
-        "value": "LC"
+        "value": "Saint Lucia"
       },
       {
         "order": 186,
         "label": "Saint Pierre and Miquelon",
-        "value": "PM"
+        "value": "Saint Pierre and Miquelon"
       },
       {
         "order": 187,
         "label": "Saint Vincent and the Grenadines",
-        "value": "VC"
+        "value": "Saint Vincent and the Grenadines"
       },
       {
         "order": 188,
         "label": "Samoa",
-        "value": "WS"
+        "value": "Samoa"
       },
       {
         "order": 189,
         "label": "San Marino",
-        "value": "SM"
+        "value": "San Marino"
       },
       {
         "order": 190,
         "label": "Sao Tome and Principe",
-        "value": "ST"
+        "value": "Sao Tome and Principe"
       },
       {
         "order": 191,
         "label": "Saudi Arabia",
-        "value": "SA"
+        "value": "Saudi Arabia"
       },
       {
         "order": 192,
         "label": "Senegal",
-        "value": "SN"
+        "value": "Senegal"
       },
       {
         "order": 193,
         "label": "Serbia and Montenegro",
-        "value": "CS"
+        "value": "Serbia and Montenegro"
       },
       {
         "order": 194,
         "label": "Seychelles",
-        "value": "SC"
+        "value": "Seychelles"
       },
       {
         "order": 195,
         "label": "Sierra Leone",
-        "value": "SL"
+        "value": "Sierra Leone"
       },
       {
         "order": 197,
         "label": "Slovakia",
-        "value": "SK"
+        "value": "Slovakia"
       },
       {
         "order": 198,
         "label": "Slovenia",
-        "value": "SI"
+        "value": "Slovenia"
       },
       {
         "order": 199,
         "label": "Solomon Islands",
-        "value": "SB"
+        "value": "Solomon Islands"
       },
       {
         "order": 200,
         "label": "Somalia",
-        "value": "SO"
+        "value": "Somalia"
       },
       {
         "order": 201,
         "label": "South Africa",
-        "value": "ZA"
+        "value": "South Africa"
       },
       {
         "order": 202,
         "label": "South Georgia and the South Sandwich Islands",
-        "value": "GS"
+        "value": "South Georgia and the South Sandwich Islands"
       },
       {
         "order": 203,
         "label": "Spain",
-        "value": "ES"
+        "value": "Spain"
       },
       {
         "order": 204,
         "label": "Sri Lanka",
-        "value": "LK"
+        "value": "Sri Lanka"
       },
       {
         "order": 205,
         "label": "Sudan",
-        "value": "SD"
+        "value": "Sudan"
       },
       {
         "order": 206,
         "label": "Suriname",
-        "value": "SR"
+        "value": "Suriname"
       },
       {
         "order": 207,
         "label": "Svalbard and Jan Mayen",
-        "value": "SJ"
+        "value": "Svalbard and Jan Mayen"
       },
       {
         "order": 208,
         "label": "Swaziland",
-        "value": "SZ"
+        "value": "Swaziland"
       },
       {
         "order": 209,
         "label": "Sweden",
-        "value": "SE"
+        "value": "Sweden"
       },
       {
         "order": 210,
         "label": "Switzerland",
-        "value": "CH"
+        "value": "Switzerland"
       },
       {
         "order": 211,
         "label": "Syrian Arab Republic",
-        "value": "SY"
+        "value": "Syrian Arab Republic"
       },
       {
         "order": 212,
         "label": "Taiwan, Province of China",
-        "value": "TW"
+        "value": "Taiwan, Province of China"
       },
       {
         "order": 213,
         "label": "Tajikistan",
-        "value": "TJ"
+        "value": "Tajikistan"
       },
       {
         "order": 214,
         "label": "Tanzania, United Republic of",
-        "value": "TZ"
+        "value": "Tanzania, United Republic of"
       },
       {
         "order": 215,
         "label": "Thailand",
-        "value": "TH"
+        "value": "Thailand"
       },
       {
         "order": 216,
         "label": "Timor-Leste",
-        "value": "TL"
+        "value": "Timor-Leste"
       },
       {
         "order": 217,
         "label": "Togo",
-        "value": "TG"
+        "value": "Togo"
       },
       {
         "order": 218,
         "label": "Tokelau",
-        "value": "TK"
+        "value": "Tokelau"
       },
       {
         "order": 219,
         "label": "Tonga",
-        "value": "TO"
+        "value": "Tonga"
       },
       {
         "order": 220,
         "label": "Trinidad and Tobago",
-        "value": "TT"
+        "value": "Trinidad and Tobago"
       },
       {
         "order": 221,
         "label": "Tunisia",
-        "value": "TN"
+        "value": "Tunisia"
       },
       {
         "order": 222,
         "label": "Turkey",
-        "value": "TR"
+        "value": "Turkey"
       },
       {
         "order": 223,
         "label": "Turkmenistan",
-        "value": "TM"
+        "value": "Turkmenistan"
       },
       {
         "order": 224,
         "label": "Turks and Caicos Islands",
-        "value": "TC"
+        "value": "Turks and Caicos Islands"
       },
       {
         "order": 225,
         "label": "Tuvalu",
-        "value": "TV"
+        "value": "Tuvalu"
       },
       {
         "order": 226,
         "label": "Uganda",
-        "value": "UG"
+        "value": "Uganda"
       },
       {
         "order": 227,
         "label": "Ukraine",
-        "value": "UA"
+        "value": "Ukraine"
       },
       {
         "order": 228,
         "label": "United Arab Emirates",
-        "value": "AE"
+        "value": "United Arab Emirates"
       },
       {
         "order": 229,
         "label": "United Kingdom",
-        "value": "GB"
+        "value": "United Kingdom"
       },
       {
         "order": 230,
         "label": "United States",
-        "value": "US"
+        "value": "United States"
       },
       {
         "order": 231,
         "label": "United States Minor Outlying Islands",
-        "value": "UM"
+        "value": "United States Minor Outlying Islands"
       },
       {
         "order": 232,
         "label": "Uruguay",
-        "value": "UY"
+        "value": "Uruguay"
       },
       {
         "order": 233,
         "label": "Uzbekistan",
-        "value": "UZ"
+        "value": "Uzbekistan"
       },
       {
         "order": 234,
         "label": "Vanuatu",
-        "value": "VU"
+        "value": "Vanuatu"
       },
       {
         "order": 235,
         "label": "Venezuela",
-        "value": "VE"
+        "value": "Venezuela"
       },
       {
         "order": 236,
         "label": "Viet Nam",
-        "value": "VN"
+        "value": "Viet Nam"
       },
       {
         "order": 237,
         "label": "Virgin Islands, British",
-        "value": "VG"
+        "value": "Virgin Islands, British"
       },
       {
         "order": 238,
         "label": "Virgin Islands, U.S.",
-        "value": "VI"
+        "value": "Virgin Islands, U.S."
       },
       {
         "order": 239,
         "label": "Wallis and Futuna",
-        "value": "WF"
+        "value": "Wallis and Futuna"
       },
       {
         "order": 240,
         "label": "Western Sahara",
-        "value": "EH"
+        "value": "Western Sahara"
       },
       {
         "order": 241,
         "label": "Yemen",
-        "value": "YE"
+        "value": "Yemen"
       },
       {
         "order": 242,
         "label": "Zambia",
-        "value": "ZM"
+        "value": "Zambia"
       },
       {
         "order": 243,
         "label": "Zimbabwe",
-        "value": "ZW"
+        "value": "Zimbabwe"
       }
     ]
   },
   {
     "type": "dropdown-others",
     "_id": 7,
-    "order": 7,
     "question": "What is the highest level of education you have completed?",
     "personalAttribute": "educationLevel",
     "options": [
@@ -1755,16 +1748,14 @@
   {
     "type": "input",
     "_id": 8,
-    "order": 8,
     "question": "What is/was your major?",
     "personalAttribute": "major"
   },
   {
     "type": "dropdown-others",
     "_id": 9,
-    "order": 9,
     "question": "What is your ethnicity?",
-    "personalAttribute": "ethnicty",
+    "personalAttribute": "ethnicity",
     "options": [
       {
         "order": 1,
@@ -1796,7 +1787,6 @@
   {
     "type": "mcq",
     "_id": 10,
-    "order": 10,
     "question": "What is your level of working experience?",
     "personalAttribute": "workingExperience",
     "options": [
@@ -1823,21 +1813,26 @@
     ]
   },
   {
-    "type": "mcq",
+    "type": "input",
     "_id": 11,
-    "order": 11,
+    "question": "Tags (Ignore this question unless specially instructed)",
+    "personalAttribute": "tags"
+  },
+  {
+    "type": "mcq",
+    "_id": 12,
     "question": "I agree that the information given in this questionnaire may be used by the organisers of TAG and TAG partners for the purpose of administrating the programme or activities relating to the programme, and that I hereby give consent to the organisers to contact me on relevant activities related to TAG.",
     "personalAttribute": "agreeToMarketing",
     "options": [
       {
         "order": 1,
         "label": "Yes",
-        "value": "Yes"
+        "value": true
       },
       {
         "order": 2,
         "label": "No",
-        "value": "No"
+        "value": false
       }
     ]
   }

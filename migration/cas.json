@@ -2,442 +2,505 @@
   {
     "band": "Very Low (Lowest 5%)",
     "order": 1,
+    "percentile": 5,
     "category": "EP",
-    "upperBound": 0,
-    "lowerBound": 0
+    "lowerBound": 0,
+    "upperBound": 9
   },
   {
     "band": "Very Low (Lowest 5%)",
     "order": 1,
+    "percentile": 5,
     "category": "EL",
-    "upperBound": 0,
-    "lowerBound": 0
+    "lowerBound": 0,
+    "upperBound": 11
   },
   {
     "band": "Very Low (Lowest 5%)",
     "order": 1,
+    "percentile": 5,
     "category": "EE",
-    "upperBound": 0,
-    "lowerBound": 0
+    "lowerBound": 0,
+    "upperBound": 8
   },
   {
     "band": "Very Low (Lowest 5%)",
     "order": 1,
+    "percentile": 5,
     "category": "IP",
-    "upperBound": 0,
-    "lowerBound": 0
+    "lowerBound": 0,
+    "upperBound": 10
   },
   {
     "band": "Very Low (Lowest 5%)",
     "order": 1,
+    "percentile": 5,
     "category": "IL",
-    "upperBound": 0,
-    "lowerBound": 0
+    "lowerBound": 0,
+    "upperBound": 7
   },
   {
     "band": "Very Low (Lowest 5%)",
     "order": 1,
+    "percentile": 5,
     "category": "IE",
-    "upperBound": 0,
-    "lowerBound": 0
+    "lowerBound": 0,
+    "upperBound": 4
   },
   {
     "band": "Very Low (Lowest 5%)",
     "order": 1,
+    "percentile": 5,
     "category": "ME",
-    "upperBound": 0,
-    "lowerBound": 0
+    "lowerBound": 0,
+    "upperBound": 18
   },
   {
     "band": "Very Low (Lowest 5%)",
     "order": 1,
+    "percentile": 5,
     "category": "ML",
-    "upperBound": 0,
-    "lowerBound": 0
+    "lowerBound": 0,
+    "upperBound": 24
   },
   {
     "band": "Very Low (Lowest 5%)",
     "order": 1,
+    "percentile": 5,
     "category": "MP",
-    "upperBound": 0,
-    "lowerBound": 0
+    "lowerBound": 0,
+    "upperBound": 25
   },
   {
     "band": "Low (6-20%)",
     "order": 2,
+    "percentile": 20,
     "category": "EP",
-    "upperBound": 10,
-    "lowerBound": 1
+    "lowerBound": 10,
+    "upperBound": 13
   },
   {
     "band": "Low (6-20%)",
     "order": 2,
+    "percentile": 20,
     "category": "EL",
-    "upperBound": 12,
-    "lowerBound": 1
+    "lowerBound": 12,
+    "upperBound": 17
   },
   {
     "band": "Low (6-20%)",
     "order": 2,
+    "percentile": 20,
     "category": "EE",
-    "upperBound": 9,
-    "lowerBound": 1
+    "lowerBound": 9,
+    "upperBound": 14
   },
   {
     "band": "Low (6-20%)",
     "order": 2,
+    "percentile": 20,
     "category": "IP",
-    "upperBound": 11,
-    "lowerBound": 1
+    "lowerBound": 11,
+    "upperBound": 12
   },
   {
     "band": "Low (6-20%)",
     "order": 2,
+    "percentile": 20,
     "category": "IL",
-    "upperBound": 8,
-    "lowerBound": 1
+    "lowerBound": 8,
+    "upperBound": 9
   },
   {
     "band": "Low (6-20%)",
     "order": 2,
+    "percentile": 20,
     "category": "IE",
-    "upperBound": 5,
-    "lowerBound": 1
+    "lowerBound": 5,
+    "upperBound": 7
   },
   {
     "band": "Low (6-20%)",
     "order": 2,
+    "percentile": 20,
     "category": "ME",
-    "upperBound": 19,
-    "lowerBound": 1
+    "lowerBound": 19,
+    "upperBound": 22
   },
   {
     "band": "Low (6-20%)",
     "order": 2,
+    "percentile": 20,
     "category": "ML",
-    "upperBound": 25,
-    "lowerBound": 1
+    "lowerBound": 25,
+    "upperBound": 28
   },
   {
     "band": "Low (6-20%)",
     "order": 2,
+    "percentile": 20,
     "category": "MP",
-    "upperBound": 26,
-    "lowerBound": 1
+    "lowerBound": 26,
+    "upperBound": 29
   },
   {
     "band": "Slightly Low (21-40%)",
     "order": 3,
+    "percentile": 40,
     "category": "EP",
-    "upperBound": 14,
-    "lowerBound": 11
+    "lowerBound": 14,
+    "upperBound": 15
   },
   {
     "band": "Slightly Low (21-40%)",
     "order": 3,
+    "percentile": 40,
     "category": "EL",
-    "upperBound": 18,
-    "lowerBound": 13
+    "lowerBound": 18,
+    "upperBound": 21
   },
   {
     "band": "Slightly Low (21-40%)",
     "order": 3,
+    "percentile": 40,
     "category": "EE",
-    "upperBound": 15,
-    "lowerBound": 10
+    "lowerBound": 15,
+    "upperBound": 18
   },
   {
     "band": "Slightly Low (21-40%)",
     "order": 3,
+    "percentile": 40,
     "category": "IP",
-    "upperBound": 13,
-    "lowerBound": 12
+    "lowerBound": 13,
+    "upperBound": 14
   },
   {
     "band": "Slightly Low (21-40%)",
     "order": 3,
+    "percentile": 40,
     "category": "IL",
-    "upperBound": 10,
-    "lowerBound": 9
+    "lowerBound": 10,
+    "upperBound": 10
   },
   {
     "band": "Slightly Low (21-40%)",
     "order": 3,
+    "percentile": 40,
     "category": "IE",
-    "upperBound": 8,
-    "lowerBound": 6
+    "lowerBound": 8,
+    "upperBound": 10
   },
   {
     "band": "Slightly Low (21-40%)",
     "order": 3,
+    "percentile": 40,
     "category": "ME",
-    "upperBound": 23,
-    "lowerBound": 20
+    "lowerBound": 23,
+    "upperBound": 26
   },
   {
     "band": "Slightly Low (21-40%)",
     "order": 3,
+    "percentile": 40,
     "category": "ML",
-    "upperBound": 29,
-    "lowerBound": 26
+    "lowerBound": 29,
+    "upperBound": 30
   },
   {
     "band": "Slightly Low (21-40%)",
     "order": 3,
+    "percentile": 40,
     "category": "MP",
-    "upperBound": 30,
-    "lowerBound": 27
+    "lowerBound": 30,
+    "upperBound": 32
   },
   {
     "band": "Average (41-60%)",
     "order": 4,
+    "percentile": 60,
     "category": "EP",
-    "upperBound": 16,
-    "lowerBound": 15
+    "lowerBound": 16,
+    "upperBound": 18
   },
   {
     "band": "Average (41-60%)",
     "order": 4,
+    "percentile": 60,
     "category": "EL",
-    "upperBound": 22,
-    "lowerBound": 19
+    "lowerBound": 22,
+    "upperBound": 24
   },
   {
     "band": "Average (41-60%)",
     "order": 4,
+    "percentile": 60,
     "category": "EE",
-    "upperBound": 19,
-    "lowerBound": 16
+    "lowerBound": 19,
+    "upperBound": 21
   },
   {
     "band": "Average (41-60%)",
     "order": 4,
+    "percentile": 60,
     "category": "IP",
-    "upperBound": 15,
-    "lowerBound": 14
+    "lowerBound": 15,
+    "upperBound": 16
   },
   {
     "band": "Average (41-60%)",
     "order": 4,
+    "percentile": 60,
     "category": "IL",
-    "upperBound": 11,
-    "lowerBound": 11
+    "lowerBound": 11,
+    "upperBound": 11
   },
   {
     "band": "Average (41-60%)",
     "order": 4,
+    "percentile": 60,
     "category": "IE",
-    "upperBound": 11,
-    "lowerBound": 9
+    "lowerBound": 11,
+    "upperBound": 11
   },
   {
     "band": "Average (41-60%)",
     "order": 4,
+    "percentile": 60,
     "category": "ME",
-    "upperBound": 27,
-    "lowerBound": 24
+    "lowerBound": 27,
+    "upperBound": 28
   },
   {
     "band": "Average (41-60%)",
     "order": 4,
+    "percentile": 60,
     "category": "ML",
-    "upperBound": 31,
-    "lowerBound": 30
+    "lowerBound": 31,
+    "upperBound": 32
   },
   {
     "band": "Average (41-60%)",
     "order": 4,
+    "percentile": 60,
     "category": "MP",
-    "upperBound": 33,
-    "lowerBound": 31
+    "lowerBound": 33,
+    "upperBound": 34
   },
   {
     "band": "Slightly High (61-80%)",
     "order": 5,
+    "percentile": 80,
     "category": "EP",
-    "upperBound": 19,
-    "lowerBound": 17
+    "lowerBound": 19,
+    "upperBound": 19
   },
   {
     "band": "Slightly High (61-80%)",
     "order": 5,
+    "percentile": 80,
     "category": "EL",
-    "upperBound": 25,
-    "lowerBound": 23
+    "lowerBound": 25,
+    "upperBound": 27
   },
   {
     "band": "Slightly High (61-80%)",
     "order": 5,
+    "percentile": 80,
     "category": "EE",
-    "upperBound": 22,
-    "lowerBound": 20
+    "lowerBound": 22,
+    "upperBound": 25
   },
   {
     "band": "Slightly High (61-80%)",
     "order": 5,
+    "percentile": 80,
     "category": "IP",
-    "upperBound": 17,
-    "lowerBound": 16
+    "lowerBound": 17,
+    "upperBound": 17
   },
   {
     "band": "Slightly High (61-80%)",
     "order": 5,
+    "percentile": 80,
     "category": "IL",
-    "upperBound": 12,
-    "lowerBound": 12
+    "lowerBound": 12,
+    "upperBound": 12
   },
   {
     "band": "Slightly High (61-80%)",
     "order": 5,
+    "percentile": 80,
     "category": "IE",
-    "upperBound": 12,
-    "lowerBound": 12
+    "lowerBound": 12,
+    "upperBound": 13
   },
   {
     "band": "Slightly High (61-80%)",
     "order": 5,
+    "percentile": 80,
     "category": "ME",
-    "upperBound": 29,
-    "lowerBound": 28
+    "lowerBound": 29,
+    "upperBound": 32
   },
   {
     "band": "Slightly High (61-80%)",
     "order": 5,
+    "percentile": 80,
     "category": "ML",
-    "upperBound": 33,
-    "lowerBound": 32
+    "lowerBound": 33,
+    "upperBound": 35
   },
   {
     "band": "Slightly High (61-80%)",
     "order": 5,
+    "percentile": 80,
     "category": "MP",
-    "upperBound": 35,
-    "lowerBound": 34
+    "lowerBound": 35,
+    "upperBound": 36
   },
   {
     "band": "High (81-95%)",
     "order": 6,
+    "percentile": 95,
     "category": "EP",
-    "upperBound": 20,
-    "lowerBound": 20
+    "lowerBound": 20,
+    "upperBound": 23
   },
   {
     "band": "High (81-95%)",
     "order": 6,
+    "percentile": 95,
     "category": "EL",
-    "upperBound": 28,
-    "lowerBound": 26
+    "lowerBound": 28,
+    "upperBound": 31
   },
   {
     "band": "High (81-95%)",
     "order": 6,
+    "percentile": 95,
     "category": "EE",
-    "upperBound": 26,
-    "lowerBound": 23
+    "lowerBound": 26,
+    "upperBound": 29
   },
   {
     "band": "High (81-95%)",
     "order": 6,
+    "percentile": 95,
     "category": "IP",
-    "upperBound": 18,
-    "lowerBound": 18
+    "lowerBound": 18,
+    "upperBound": 19
   },
   {
     "band": "High (81-95%)",
     "order": 6,
+    "percentile": 95,
     "category": "IL",
-    "upperBound": 13,
-    "lowerBound": 13
+    "lowerBound": 13,
+    "upperBound": 14
   },
   {
     "band": "High (81-95%)",
     "order": 6,
+    "percentile": 95,
     "category": "IE",
-    "upperBound": 14,
-    "lowerBound": 13
+    "lowerBound": 14,
+    "upperBound": 16
   },
   {
     "band": "High (81-95%)",
     "order": 6,
+    "percentile": 95,
     "category": "ME",
-    "upperBound": 33,
-    "lowerBound": 30
+    "lowerBound": 33,
+    "upperBound": 37
   },
   {
     "band": "High (81-95%)",
     "order": 6,
+    "percentile": 95,
     "category": "ML",
-    "upperBound": 36,
-    "lowerBound": 34
+    "lowerBound": 36,
+    "upperBound": 39
   },
   {
     "band": "High (81-95%)",
     "order": 6,
+    "percentile": 95,
     "category": "MP",
-    "upperBound": 37,
-    "lowerBound": 36
+    "lowerBound": 37,
+    "upperBound": 40
   },
   {
     "band": "Very High (Highest 5%)",
     "order": 7,
+    "percentile": 100,
     "category": "EP",
-    "upperBound": 24,
-    "lowerBound": 21
+    "lowerBound": 24,
+    "upperBound": 100
   },
   {
     "band": "Very High (Highest 5%)",
     "order": 7,
+    "percentile": 100,
     "category": "EL",
-    "upperBound": 32,
-    "lowerBound": 29
+    "lowerBound": 32,
+    "upperBound": 100
   },
   {
     "band": "Very High (Highest 5%)",
     "order": 7,
+    "percentile": 100,
     "category": "EE",
-    "upperBound": 30,
-    "lowerBound": 27
+    "lowerBound": 30,
+    "upperBound": 100
   },
   {
     "band": "Very High (Highest 5%)",
     "order": 7,
+    "percentile": 100,
     "category": "IP",
-    "upperBound": 20,
-    "lowerBound": 19
+    "lowerBound": 20,
+    "upperBound": 100
   },
   {
     "band": "Very High (Highest 5%)",
     "order": 7,
+    "percentile": 100,
     "category": "IL",
-    "upperBound": 15,
-    "lowerBound": 14
+    "lowerBound": 15,
+    "upperBound": 100
   },
   {
     "band": "Very High (Highest 5%)",
     "order": 7,
+    "percentile": 100,
     "category": "IE",
-    "upperBound": 17,
-    "lowerBound": 15
+    "lowerBound": 17,
+    "upperBound": 100
   },
   {
     "band": "Very High (Highest 5%)",
     "order": 7,
+    "percentile": 100,
     "category": "ME",
-    "upperBound": 38,
-    "lowerBound": 34
+    "lowerBound": 38,
+    "upperBound": 100
   },
   {
     "band": "Very High (Highest 5%)",
     "order": 7,
+    "percentile": 100,
     "category": "ML",
-    "upperBound": 40,
-    "lowerBound": 37
+    "lowerBound": 40,
+    "upperBound": 100
   },
   {
     "band": "Very High (Highest 5%)",
     "order": 7,
+    "percentile": 100,
     "category": "MP",
-    "upperBound": 41,
-    "lowerBound": 38
+    "lowerBound": 41,
+    "upperBound": 100
   }
 ]

@@ -1,7 +1,6 @@
 [
   {
-    "_id": 12,
-    "order": 12,
+    "_id": 13,
     "type": "scale",
     "question": "I will go to almost any length to avoid confrontation.",
     "test": "EG",
@@ -20,8 +19,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -37,8 +35,7 @@
     ]
   },
   {
-    "_id": 13,
-    "order": 13,
+    "_id": 14,
     "type": "scale",
     "question": "I am practical minded, logical person.",
     "test": "EG",
@@ -57,8 +54,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -76,8 +72,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 14,
-    "order": 14,
+    "_id": 15,
     "type": "scale",
     "question": "I always consider other people's feelings before acting.",
     "test": "EG",
@@ -96,8 +91,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -115,8 +109,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 15,
-    "order": 15,
+    "_id": 16,
     "type": "scale",
     "question": "Imagination is the key to future.",
     "test": "EG",
@@ -135,8 +128,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -154,8 +146,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 16,
-    "order": 16,
+    "_id": 17,
     "type": "scale",
     "question": "I find it hard to sit still longer than 30 minutes at a time.",
     "test": "EG",
@@ -174,8 +165,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -191,8 +181,7 @@
     ]
   },
   {
-    "_id": 17,
-    "order": 17,
+    "_id": 18,
     "type": "scale",
     "question": "I am most comfortable with slow, methodical progress.",
     "test": "EG",
@@ -211,8 +200,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -228,8 +216,7 @@
     ]
   },
   {
-    "_id": 18,
-    "order": 18,
+    "_id": 19,
     "type": "scale",
     "question": "I actively seek out social situations.",
     "test": "EG",
@@ -248,8 +235,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -265,8 +251,7 @@
     ]
   },
   {
-    "_id": 19,
-    "order": 19,
+    "_id": 20,
     "type": "scale",
     "question": "I like to have reading material prior to any class, lecture or meeting I'm attending.",
     "test": "EG",
@@ -285,8 +270,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -302,8 +286,7 @@
     ]
   },
   {
-    "_id": 20,
-    "order": 20,
+    "_id": 21,
     "type": "scale",
     "question": "I enjoy solving problem that requires a lot of thinking.",
     "test": "EG",
@@ -322,8 +305,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -341,8 +323,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 21,
-    "order": 21,
+    "_id": 22,
     "type": "scale",
     "question": "I am usually very agreeable to suggestions.",
     "test": "EG",
@@ -361,8 +342,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -378,8 +358,7 @@
     ]
   },
   {
-    "_id": 22,
-    "order": 22,
+    "_id": 23,
     "type": "scale",
     "question": "I am definitely going to be an entrepreneur after my studies and am prepared to do anything to achieve this.",
     "test": "CAS",
@@ -398,8 +377,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -417,8 +395,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 23,
-    "order": 23,
+    "_id": 24,
     "type": "scale",
     "question": "If I agree to lead a group, I would never expect any advantages or special benefits.",
     "test": "CAS",
@@ -437,8 +414,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -456,8 +432,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 24,
-    "order": 24,
+    "_id": 25,
     "type": "scale",
     "question": "It is a privilege and honor for me to excel in my chosen area of study.",
     "test": "CAS",
@@ -476,47 +451,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "MP",
-    "polarity": "positive"
-  },
-  {
-    "_id": 25,
-    "order": 25,
-    "type": "scale",
-    "question": "The best way to increase my country's competitiveness is for people like me to become highly skilled professionals.",
-    "test": "CAS",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -535,9 +470,8 @@
   },
   {
     "_id": 26,
-    "order": 26,
     "type": "scale",
-    "question": "My parents hope that I will be a highly skilled professional in my chosen area of expertise.",
+    "question": "The best way to increase my country's competitiveness is for people like me to become highly skilled professionals.",
     "test": "CAS",
     "options": [
       {
@@ -554,8 +488,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -574,7 +507,43 @@
   },
   {
     "_id": 27,
-    "order": 27,
+    "type": "scale",
+    "question": "My parents hope that I will be a highly skilled professional in my chosen area of expertise.",
+    "test": "CAS",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "MP",
+    "polarity": "positive"
+  },
+  {
+    "_id": 28,
     "type": "scale",
     "question": "I often start conversation with strangers.",
     "test": "EG",
@@ -593,8 +562,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -610,8 +578,7 @@
     ]
   },
   {
-    "_id": 28,
-    "order": 28,
+    "_id": 29,
     "type": "scale",
     "question": "I enjoy problems that require logical thinking.",
     "test": "EG",
@@ -630,47 +597,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "OB",
-    "polarity": "positive"
-  },
-  {
-    "_id": 29,
-    "order": 29,
-    "type": "scale",
-    "question": "Most of my decisions are based on rigorous analysis.",
-    "test": "EG",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -689,7 +616,43 @@
   },
   {
     "_id": 30,
-    "order": 30,
+    "type": "scale",
+    "question": "Most of my decisions are based on rigorous analysis.",
+    "test": "EG",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "OB",
+    "polarity": "positive"
+  },
+  {
+    "_id": 31,
     "type": "scale",
     "question": "I tend to talk in specific terms.",
     "test": "EG",
@@ -708,8 +671,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -725,8 +687,7 @@
     ]
   },
   {
-    "_id": 31,
-    "order": 31,
+    "_id": 32,
     "type": "scale",
     "question": "I am very comfortable in new and unusual surroundings.",
     "test": "EG",
@@ -745,8 +706,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -762,8 +722,7 @@
     ]
   },
   {
-    "_id": 32,
-    "order": 32,
+    "_id": 33,
     "type": "scale",
     "question": "I enjoy good intellectual discussion.",
     "test": "EG",
@@ -782,8 +741,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -801,8 +759,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 33,
-    "order": 33,
+    "_id": 34,
     "type": "scale",
     "question": "One of my goals is building the self-esteem of people I meet.",
     "test": "EG",
@@ -821,8 +778,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -838,8 +794,7 @@
     ]
   },
   {
-    "_id": 34,
-    "order": 34,
+    "_id": 35,
     "type": "scale",
     "question": "I would like a job with lots of rules and regulations.",
     "test": "EG",
@@ -858,8 +813,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -877,8 +831,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 35,
-    "order": 35,
+    "_id": 36,
     "type": "scale",
     "question": "I get bored easily.",
     "test": "EG",
@@ -897,8 +850,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -916,8 +868,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 36,
-    "order": 36,
+    "_id": 37,
     "type": "scale",
     "question": "I find it hard not to be competitive.",
     "test": "EG",
@@ -936,8 +887,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -953,8 +903,7 @@
     ]
   },
   {
-    "_id": 37,
-    "order": 37,
+    "_id": 38,
     "type": "scale",
     "question": "I have always enjoyed leading others and have assumed leadership roles whenever I could.",
     "test": "CAS",
@@ -973,8 +922,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -992,8 +940,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 38,
-    "order": 38,
+    "_id": 39,
     "type": "scale",
     "question": "I am definitely more of a follower by nature, so I am happy to pass leadership responsibilities to others.",
     "test": "CAS",
@@ -1012,8 +959,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1031,8 +977,7 @@
     "polarity": "negative"
   },
   {
-    "_id": 39,
-    "order": 39,
+    "_id": 40,
     "type": "scale",
     "question": "I have a viable business idea and intend to start my own business soon after graduation.",
     "test": "CAS",
@@ -1051,8 +996,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1070,8 +1014,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 40,
-    "order": 40,
+    "_id": 41,
     "type": "scale",
     "question": "I like others to depend on me for my highly specialized knowledge, skills and experience.",
     "test": "CAS",
@@ -1090,8 +1033,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1109,8 +1051,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 41,
-    "order": 41,
+    "_id": 42,
     "type": "scale",
     "question": "I feel that I have a duty to lead others if I am asked.",
     "test": "CAS",
@@ -1129,8 +1070,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1148,8 +1088,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 42,
-    "order": 42,
+    "_id": 43,
     "type": "scale",
     "question": "I tend to be very sensitive to the feelings of people around me.",
     "test": "EG",
@@ -1168,8 +1107,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1187,8 +1125,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 43,
-    "order": 43,
+    "_id": 44,
     "type": "scale",
     "question": "I enjoy working with things more than people.",
     "test": "EG",
@@ -1207,8 +1144,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1224,8 +1160,7 @@
     ]
   },
   {
-    "_id": 44,
-    "order": 44,
+    "_id": 45,
     "type": "scale",
     "question": "I sometimes know things without knowing how I know.",
     "test": "EG",
@@ -1244,8 +1179,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1263,8 +1197,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 45,
-    "order": 45,
+    "_id": 46,
     "type": "scale",
     "question": "I remember people by the sound of their voice.",
     "test": "EG",
@@ -1283,8 +1216,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1302,8 +1234,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 46,
-    "order": 46,
+    "_id": 47,
     "type": "scale",
     "question": "I openly express affection for other people.",
     "test": "EG",
@@ -1322,8 +1253,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1339,8 +1269,7 @@
     ]
   },
   {
-    "_id": 47,
-    "order": 47,
+    "_id": 48,
     "type": "scale",
     "question": "I put a lot of energy into handling several task at the same time.",
     "test": "EG",
@@ -1359,8 +1288,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1376,8 +1304,7 @@
     ]
   },
   {
-    "_id": 48,
-    "order": 48,
+    "_id": 49,
     "type": "scale",
     "question": "People would describe me as easy to get along with.",
     "test": "EG",
@@ -1396,8 +1323,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1413,8 +1339,7 @@
     ]
   },
   {
-    "_id": 49,
-    "order": 49,
+    "_id": 50,
     "type": "scale",
     "question": "I enjoy reading business articles.",
     "test": "EG",
@@ -1433,8 +1358,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1450,8 +1374,7 @@
     ]
   },
   {
-    "_id": 50,
-    "order": 50,
+    "_id": 51,
     "type": "scale",
     "question": "I am highly predictable.",
     "test": "EG",
@@ -1470,47 +1393,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "PR",
-    "polarity": "positive"
-  },
-  {
-    "_id": 51,
-    "order": 51,
-    "type": "scale",
-    "question": "I like to play it safe and go by the books.",
-    "test": "EG",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1529,7 +1412,43 @@
   },
   {
     "_id": 52,
-    "order": 52,
+    "type": "scale",
+    "question": "I like to play it safe and go by the books.",
+    "test": "EG",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "PR",
+    "polarity": "positive"
+  },
+  {
+    "_id": 53,
     "type": "scale",
     "question": "I will start my business in the next 10 years.",
     "test": "CAS",
@@ -1548,8 +1467,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1567,8 +1485,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 53,
-    "order": 53,
+    "_id": 54,
     "type": "scale",
     "question": "I am the kind of person who likes influencing and managing people more than doing anything else.",
     "test": "CAS",
@@ -1587,8 +1504,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1606,8 +1522,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 54,
-    "order": 54,
+    "_id": 55,
     "type": "scale",
     "question": "I will start my business in the next 5 years.",
     "test": "CAS",
@@ -1626,8 +1541,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1645,8 +1559,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 55,
-    "order": 55,
+    "_id": 56,
     "type": "scale",
     "question": "I don't expect to get any privileges if I agree to lead or be responsible for a project.",
     "test": "CAS",
@@ -1665,8 +1578,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1684,8 +1596,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 56,
-    "order": 56,
+    "_id": 57,
     "type": "scale",
     "question": "I like to be highly specialized and experienced in a specific area of expertise.",
     "test": "CAS",
@@ -1704,8 +1615,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1723,8 +1633,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 57,
-    "order": 57,
+    "_id": 58,
     "type": "scale",
     "question": "I acknowledge errors and move on.",
     "test": "EG",
@@ -1743,8 +1652,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1762,8 +1670,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 58,
-    "order": 58,
+    "_id": 59,
     "type": "scale",
     "question": "I enjoy producing ideas more than drawing conclusions.",
     "test": "EG",
@@ -1782,8 +1689,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1801,8 +1707,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 59,
-    "order": 59,
+    "_id": 60,
     "type": "scale",
     "question": "I tend to look at things as black or white as opposed to shades of grey.",
     "test": "EG",
@@ -1821,8 +1726,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1838,8 +1742,7 @@
     ]
   },
   {
-    "_id": 60,
-    "order": 60,
+    "_id": 61,
     "type": "scale",
     "question": "I enjoy reading romance novels.",
     "test": "EG",
@@ -1858,8 +1761,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1877,8 +1779,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 61,
-    "order": 61,
+    "_id": 62,
     "type": "scale",
     "question": "I enjoy activities which require organizing.",
     "test": "EG",
@@ -1897,47 +1798,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "PR",
-    "polarity": "positive"
-  },
-  {
-    "_id": 62,
-    "order": 62,
-    "type": "scale",
-    "question": "I am very conscious of time.",
-    "test": "EG",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1956,7 +1817,43 @@
   },
   {
     "_id": 63,
-    "order": 63,
+    "type": "scale",
+    "question": "I am very conscious of time.",
+    "test": "EG",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "PR",
+    "polarity": "positive"
+  },
+  {
+    "_id": 64,
     "type": "scale",
     "question": "I easily understand complex subjects.",
     "test": "EG",
@@ -1975,8 +1872,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -1992,8 +1888,7 @@
     ]
   },
   {
-    "_id": 64,
-    "order": 64,
+    "_id": 65,
     "type": "scale",
     "question": "I occasionally get into trouble because I act on impulse.",
     "test": "EG",
@@ -2012,8 +1907,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2029,8 +1923,7 @@
     ]
   },
   {
-    "_id": 65,
-    "order": 65,
+    "_id": 66,
     "type": "scale",
     "question": "I don't like to draw attention to myself.",
     "test": "EG",
@@ -2049,8 +1942,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2066,8 +1958,7 @@
     ]
   },
   {
-    "_id": 66,
-    "order": 66,
+    "_id": 67,
     "type": "scale",
     "question": "I easily handle ambiguous or uncertain situations.",
     "test": "EG",
@@ -2086,8 +1977,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2103,8 +1993,7 @@
     ]
   },
   {
-    "_id": 67,
-    "order": 67,
+    "_id": 68,
     "type": "scale",
     "question": "I like thinking of ways to create new products and services for the market.",
     "test": "CAS",
@@ -2123,8 +2012,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2142,8 +2030,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 68,
-    "order": 68,
+    "_id": 69,
     "type": "scale",
     "question": "If I am nominated to be in charge of a project or a group, I feel it is an honor and privilege to accept such a role.",
     "test": "CAS",
@@ -2162,8 +2049,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2181,8 +2067,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 69,
-    "order": 69,
+    "_id": 70,
     "type": "scale",
     "question": "The rewards and satisfactions of starting and running a business far outweigh the risks and sacrifices needed.",
     "test": "CAS",
@@ -2201,47 +2086,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "ME",
-    "polarity": "positive"
-  },
-  {
-    "_id": 70,
-    "order": 70,
-    "type": "scale",
-    "question": "I feel I ought to live up to my parents' expectations to work in an entrepreneurial business environment.",
-    "test": "CAS",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2260,7 +2105,43 @@
   },
   {
     "_id": 71,
-    "order": 71,
+    "type": "scale",
+    "question": "I feel I ought to live up to my parents' expectations to work in an entrepreneurial business environment.",
+    "test": "CAS",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "ME",
+    "polarity": "positive"
+  },
+  {
+    "_id": 72,
     "type": "scale",
     "question": "I would much prefer a career as a specialized expert or professional in a large and stable organization.",
     "test": "CAS",
@@ -2279,8 +2160,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2298,8 +2178,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 72,
-    "order": 72,
+    "_id": 73,
     "type": "scale",
     "question": "I find humour in most situations.",
     "test": "EG",
@@ -2318,8 +2197,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2335,8 +2213,7 @@
     ]
   },
   {
-    "_id": 73,
-    "order": 73,
+    "_id": 74,
     "type": "scale",
     "question": "I prefer to keep a fast pace.",
     "test": "EG",
@@ -2355,8 +2232,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2372,8 +2248,7 @@
     ]
   },
   {
-    "_id": 74,
-    "order": 74,
+    "_id": 75,
     "type": "scale",
     "question": "I often search for new ways to solve old problems.",
     "test": "EG",
@@ -2392,8 +2267,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2409,8 +2283,7 @@
     ]
   },
   {
-    "_id": 75,
-    "order": 75,
+    "_id": 76,
     "type": "scale",
     "question": "I learn better by listening to explanation than by reading a book.",
     "test": "EG",
@@ -2429,8 +2302,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2448,8 +2320,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 76,
-    "order": 76,
+    "_id": 77,
     "type": "scale",
     "question": "When faced with problems, I seek the opinions of friends.",
     "test": "EG",
@@ -2468,8 +2339,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2485,8 +2355,7 @@
     ]
   },
   {
-    "_id": 77,
-    "order": 77,
+    "_id": 78,
     "type": "scale",
     "question": "My friends come from all races, beliefs and cultures.",
     "test": "EG",
@@ -2505,8 +2374,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2522,8 +2390,7 @@
     ]
   },
   {
-    "_id": 78,
-    "order": 78,
+    "_id": 79,
     "type": "scale",
     "question": "I like to listen to music.",
     "test": "EG",
@@ -2542,8 +2409,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2561,8 +2427,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 79,
-    "order": 79,
+    "_id": 80,
     "type": "scale",
     "question": "I enjoy reading articles about scientific subjects.",
     "test": "EG",
@@ -2581,8 +2446,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2600,8 +2464,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 80,
-    "order": 80,
+    "_id": 81,
     "type": "scale",
     "question": "I often recognize relationships between seemingly unrelated objects.",
     "test": "EG",
@@ -2620,8 +2483,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2637,8 +2499,7 @@
     ]
   },
   {
-    "_id": 81,
-    "order": 81,
+    "_id": 82,
     "type": "scale",
     "question": "I always want to know how something works.",
     "test": "EG",
@@ -2657,8 +2518,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2674,8 +2534,7 @@
     ]
   },
   {
-    "_id": 82,
-    "order": 82,
+    "_id": 83,
     "type": "scale",
     "question": "I definitely don't see myself working as a professional or a technical expert after graduation.",
     "test": "CAS",
@@ -2694,8 +2553,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2713,8 +2571,7 @@
     "polarity": "negative"
   },
   {
-    "_id": 83,
-    "order": 83,
+    "_id": 84,
     "type": "scale",
     "question": "If I stick to becoming a professional in my field of study, I am guaranteed to make a good living.",
     "test": "CAS",
@@ -2733,8 +2590,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2752,8 +2608,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 84,
-    "order": 84,
+    "_id": 85,
     "type": "scale",
     "question": "I do not see myself as a leader or manager in charge of others in my future working life.",
     "test": "CAS",
@@ -2772,8 +2627,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2791,8 +2645,7 @@
     "polarity": "negative"
   },
   {
-    "_id": 85,
-    "order": 85,
+    "_id": 86,
     "type": "scale",
     "question": "Being a highly specialized professional in my chosen field will assure me of a steady income.",
     "test": "CAS",
@@ -2811,8 +2664,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2830,8 +2682,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 86,
-    "order": 86,
+    "_id": 87,
     "type": "scale",
     "question": "I agree to lead whenever asked or nominated by the other group members.",
     "test": "CAS",
@@ -2850,8 +2701,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2869,8 +2719,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 87,
-    "order": 87,
+    "_id": 88,
     "type": "scale",
     "question": "I have a very active imagination.",
     "test": "EG",
@@ -2889,8 +2738,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2908,8 +2756,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 88,
-    "order": 88,
+    "_id": 89,
     "type": "scale",
     "question": "I put human feelings and needs before my own success and achievement.",
     "test": "EG",
@@ -2928,8 +2775,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2947,8 +2793,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 89,
-    "order": 89,
+    "_id": 90,
     "type": "scale",
     "question": "I have a driving personality.",
     "test": "EG",
@@ -2967,8 +2812,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -2984,8 +2828,7 @@
     ]
   },
   {
-    "_id": 90,
-    "order": 90,
+    "_id": 91,
     "type": "scale",
     "question": "I often use examples from personal experience in conversation.",
     "test": "EG",
@@ -3004,8 +2847,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3021,8 +2863,7 @@
     ]
   },
   {
-    "_id": 91,
-    "order": 91,
+    "_id": 92,
     "type": "scale",
     "question": "When I get involved in a new subject, I study it thoroughly.",
     "test": "EG",
@@ -3041,8 +2882,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3058,8 +2898,7 @@
     ]
   },
   {
-    "_id": 92,
-    "order": 92,
+    "_id": 93,
     "type": "scale",
     "question": "I have to get my hands on something in order to really understand it.",
     "test": "EG",
@@ -3078,8 +2917,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3097,8 +2935,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 93,
-    "order": 93,
+    "_id": 94,
     "type": "scale",
     "question": "I don't mind pushing to the front of the line.",
     "test": "EG",
@@ -3117,8 +2954,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3134,8 +2970,7 @@
     ]
   },
   {
-    "_id": 94,
-    "order": 94,
+    "_id": 95,
     "type": "scale",
     "question": "I usually know my bank balance.",
     "test": "EG",
@@ -3154,8 +2989,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3173,8 +3007,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 95,
-    "order": 95,
+    "_id": 96,
     "type": "scale",
     "question": "I enjoyed studying geometry in school.",
     "test": "EG",
@@ -3193,8 +3026,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3210,8 +3042,7 @@
     ]
   },
   {
-    "_id": 96,
-    "order": 96,
+    "_id": 97,
     "type": "scale",
     "question": "I keep my feelings to myself.",
     "test": "EG",
@@ -3230,8 +3061,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3247,8 +3077,7 @@
     ]
   },
   {
-    "_id": 97,
-    "order": 97,
+    "_id": 98,
     "type": "scale",
     "question": "My main career goal is to be a technical expert, specialist or professional in my field of study.",
     "test": "CAS",
@@ -3267,8 +3096,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3286,8 +3114,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 98,
-    "order": 98,
+    "_id": 99,
     "type": "scale",
     "question": "I am the kind of person who strives to be highly specialized in my field of study.",
     "test": "CAS",
@@ -3306,8 +3133,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3325,8 +3151,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 99,
-    "order": 99,
+    "_id": 100,
     "type": "scale",
     "question": "I am only interested in leading a group if there are clear advantages for me.",
     "test": "CAS",
@@ -3345,8 +3170,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3364,8 +3188,7 @@
     "polarity": "negative"
   },
   {
-    "_id": 100,
-    "order": 100,
+    "_id": 101,
     "type": "scale",
     "question": "Ever since I was a kid, I have dreamed about opening my own business.",
     "test": "CAS",
@@ -3384,8 +3207,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3403,8 +3225,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 101,
-    "order": 101,
+    "_id": 102,
     "type": "scale",
     "question": "I see myself continuously furthering or advancing in my specialization and professional/technical expertise.",
     "test": "CAS",
@@ -3423,8 +3244,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3442,8 +3262,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 102,
-    "order": 102,
+    "_id": 103,
     "type": "scale",
     "question": "I like working for long periods of time on one thing.",
     "test": "EG",
@@ -3462,8 +3281,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3479,8 +3297,7 @@
     ]
   },
   {
-    "_id": 103,
-    "order": 103,
+    "_id": 104,
     "type": "scale",
     "question": "I argue for my point of view.",
     "test": "EG",
@@ -3499,8 +3316,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3516,8 +3332,7 @@
     ]
   },
   {
-    "_id": 104,
-    "order": 104,
+    "_id": 105,
     "type": "scale",
     "question": "I am a leader more than a follower.",
     "test": "EG",
@@ -3536,8 +3351,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3553,8 +3367,7 @@
     ]
   },
   {
-    "_id": 105,
-    "order": 105,
+    "_id": 106,
     "type": "scale",
     "question": "I am good at reading maps.",
     "test": "EG",
@@ -3573,8 +3386,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3590,8 +3402,7 @@
     ]
   },
   {
-    "_id": 106,
-    "order": 106,
+    "_id": 107,
     "type": "scale",
     "question": "I frequently speak in generalities.",
     "test": "EG",
@@ -3610,8 +3421,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3629,8 +3439,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 107,
-    "order": 107,
+    "_id": 108,
     "type": "scale",
     "question": "I enjoy challenging people to see what they are made of.",
     "test": "EG",
@@ -3649,8 +3458,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3666,8 +3474,7 @@
     ]
   },
   {
-    "_id": 108,
-    "order": 108,
+    "_id": 109,
     "type": "scale",
     "question": "People usually know how I'm feeling just by looking at me.",
     "test": "EG",
@@ -3686,8 +3493,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3703,8 +3509,7 @@
     ]
   },
   {
-    "_id": 109,
-    "order": 109,
+    "_id": 110,
     "type": "scale",
     "question": "I am artistic.",
     "test": "EG",
@@ -3723,8 +3528,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3742,8 +3546,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 110,
-    "order": 110,
+    "_id": 111,
     "type": "scale",
     "question": "I enjoyed studying algebra and math.",
     "test": "EG",
@@ -3762,8 +3565,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3779,8 +3581,7 @@
     ]
   },
   {
-    "_id": 111,
-    "order": 111,
+    "_id": 112,
     "type": "scale",
     "question": "I like quiet chats with neighbours and friends.",
     "test": "EG",
@@ -3799,8 +3600,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3816,8 +3616,7 @@
     ]
   },
   {
-    "_id": 112,
-    "order": 112,
+    "_id": 113,
     "type": "scale",
     "question": "I doubt that becoming a skilled professional in my field would result in sizable monetary or social status.",
     "test": "CAS",
@@ -3836,8 +3635,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3855,8 +3653,7 @@
     "polarity": "negative"
   },
   {
-    "_id": 113,
-    "order": 113,
+    "_id": 114,
     "type": "scale",
     "question": "This country needs more entrepreneurs and I feel obliged to 'give it a go'.",
     "test": "CAS",
@@ -3875,47 +3672,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "ME",
-    "polarity": "positive"
-  },
-  {
-    "_id": 114,
-    "order": 114,
-    "type": "scale",
-    "question": "The easiest and fastest way to make lots of money is to start my own business.",
-    "test": "CAS",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3934,9 +3691,8 @@
   },
   {
     "_id": 115,
-    "order": 115,
     "type": "scale",
-    "question": "I have a strong sense of duty to take over a family-related business.",
+    "question": "The easiest and fastest way to make lots of money is to start my own business.",
     "test": "CAS",
     "options": [
       {
@@ -3953,8 +3709,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -3973,7 +3728,43 @@
   },
   {
     "_id": 116,
-    "order": 116,
+    "type": "scale",
+    "question": "I have a strong sense of duty to take over a family-related business.",
+    "test": "CAS",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "ME",
+    "polarity": "positive"
+  },
+  {
+    "_id": 117,
     "type": "scale",
     "question": "My main career goal is to rise up the ranks as a leader or manager in charge of others in an organization.",
     "test": "CAS",
@@ -3992,8 +3783,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4011,8 +3801,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 117,
-    "order": 117,
+    "_id": 118,
     "type": "scale",
     "question": "I enjoy being admired by others.",
     "test": "EG",
@@ -4031,8 +3820,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4048,8 +3836,7 @@
     ]
   },
   {
-    "_id": 118,
-    "order": 118,
+    "_id": 119,
     "type": "scale",
     "question": "I tend to make decisions based on a sensory (visceral) sensation in my stomach.",
     "test": "EG",
@@ -4068,8 +3855,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4085,8 +3871,7 @@
     ]
   },
   {
-    "_id": 119,
-    "order": 119,
+    "_id": 120,
     "type": "scale",
     "question": "I like telling people what to do.",
     "test": "EG",
@@ -4105,8 +3890,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4122,8 +3906,7 @@
     ]
   },
   {
-    "_id": 120,
-    "order": 120,
+    "_id": 121,
     "type": "scale",
     "question": "I like bold colours and textured materials.",
     "test": "EG",
@@ -4142,8 +3925,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4159,8 +3941,7 @@
     ]
   },
   {
-    "_id": 121,
-    "order": 121,
+    "_id": 122,
     "type": "scale",
     "question": "I prefer to learn a new task by having someone show me.",
     "test": "EG",
@@ -4179,8 +3960,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4196,8 +3976,7 @@
     ]
   },
   {
-    "_id": 122,
-    "order": 122,
+    "_id": 123,
     "type": "scale",
     "question": "I am interested in abstracts concepts and ideas.",
     "test": "EG",
@@ -4216,8 +3995,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4235,8 +4013,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 123,
-    "order": 123,
+    "_id": 124,
     "type": "scale",
     "question": "I have strong interest in math and science.",
     "test": "EG",
@@ -4255,47 +4032,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "OB",
-    "polarity": "positive"
-  },
-  {
-    "_id": 124,
-    "order": 124,
-    "type": "scale",
-    "question": "People would describe me as someone who has lots of common sense.",
-    "test": "EG",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4314,7 +4051,43 @@
   },
   {
     "_id": 125,
-    "order": 125,
+    "type": "scale",
+    "question": "People would describe me as someone who has lots of common sense.",
+    "test": "EG",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "OB",
+    "polarity": "positive"
+  },
+  {
+    "_id": 126,
     "type": "scale",
     "question": "I treat mistakes as learning opportunities rather than failure.",
     "test": "EG",
@@ -4333,8 +4106,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4350,8 +4122,7 @@
     ]
   },
   {
-    "_id": 126,
-    "order": 126,
+    "_id": 127,
     "type": "scale",
     "question": "I pick on the vibes of people around me.",
     "test": "EG",
@@ -4370,8 +4141,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4389,8 +4159,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 127,
-    "order": 127,
+    "_id": 128,
     "type": "scale",
     "question": "I am the kind of person who constantly has ideas about making money.",
     "test": "CAS",
@@ -4409,47 +4178,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "ME",
-    "polarity": "positive"
-  },
-  {
-    "_id": 128,
-    "order": 128,
-    "type": "scale",
-    "question": "I see working for myself as the best way to escape the rigidity and routines of organizations.",
-    "test": "CAS",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4468,7 +4197,43 @@
   },
   {
     "_id": 129,
-    "order": 129,
+    "type": "scale",
+    "question": "I see working for myself as the best way to escape the rigidity and routines of organizations.",
+    "test": "CAS",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "ME",
+    "polarity": "positive"
+  },
+  {
+    "_id": 130,
     "type": "scale",
     "question": "I plan to become a leader or manager in the near future.",
     "test": "CAS",
@@ -4487,8 +4252,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4506,8 +4270,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 130,
-    "order": 130,
+    "_id": 131,
     "type": "scale",
     "question": "I am usually poor at details but grasp the big picture.",
     "test": "EG",
@@ -4526,8 +4289,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4545,8 +4307,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 131,
-    "order": 131,
+    "_id": 132,
     "type": "scale",
     "question": "I am cheerful and even tempered in most situations.",
     "test": "EG",
@@ -4565,8 +4326,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4582,8 +4342,7 @@
     ]
   },
   {
-    "_id": 132,
-    "order": 132,
+    "_id": 133,
     "type": "scale",
     "question": "I am sceptical and cautious of new and untried ideas.",
     "test": "EG",
@@ -4602,8 +4361,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4619,8 +4377,7 @@
     ]
   },
   {
-    "_id": 133,
-    "order": 133,
+    "_id": 134,
     "type": "scale",
     "question": "I like to work alone.",
     "test": "EG",
@@ -4639,8 +4396,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4656,8 +4412,7 @@
     ]
   },
   {
-    "_id": 134,
-    "order": 134,
+    "_id": 135,
     "type": "scale",
     "question": "I wish things would stay the same.",
     "test": "EG",
@@ -4676,8 +4431,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4693,8 +4447,7 @@
     ]
   },
   {
-    "_id": 135,
-    "order": 135,
+    "_id": 136,
     "type": "scale",
     "question": "I often draw pictures and diagrams when describing things.",
     "test": "EG",
@@ -4713,8 +4466,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4732,8 +4484,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 136,
-    "order": 136,
+    "_id": 137,
     "type": "scale",
     "question": "I tend to make decisions based on feelings more than analysis.",
     "test": "EG",
@@ -4752,8 +4503,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4769,8 +4519,7 @@
     ]
   },
   {
-    "_id": 137,
-    "order": 137,
+    "_id": 138,
     "type": "scale",
     "question": "I get excited when something is new and different.",
     "test": "EG",
@@ -4789,47 +4538,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "OP",
-    "polarity": "positive"
-  },
-  {
-    "_id": 138,
-    "order": 138,
-    "type": "scale",
-    "question": "I can intuitively sense solutions to problems.",
-    "test": "EG",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4848,7 +4557,43 @@
   },
   {
     "_id": 139,
-    "order": 139,
+    "type": "scale",
+    "question": "I can intuitively sense solutions to problems.",
+    "test": "EG",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "OP",
+    "polarity": "positive"
+  },
+  {
+    "_id": 140,
     "type": "scale",
     "question": "I can make people laugh.",
     "test": "EG",
@@ -4867,8 +4612,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4884,8 +4628,7 @@
     ]
   },
   {
-    "_id": 140,
-    "order": 140,
+    "_id": 141,
     "type": "scale",
     "question": "I like to plan, direct, organize and prepare others as to what they need to do.",
     "test": "CAS",
@@ -4904,47 +4647,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "EL",
-    "polarity": "positive"
-  },
-  {
-    "_id": 141,
-    "order": 141,
-    "type": "scale",
-    "question": "I like to create and/or build a vision that will inspire others.",
-    "test": "CAS",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -4963,7 +4666,43 @@
   },
   {
     "_id": 142,
-    "order": 142,
+    "type": "scale",
+    "question": "I like to create and/or build a vision that will inspire others.",
+    "test": "CAS",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "EL",
+    "polarity": "positive"
+  },
+  {
+    "_id": 143,
     "type": "scale",
     "question": "I like to manage the financial assets and performance of a company or firm.",
     "test": "CAS",
@@ -4982,47 +4721,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "EE",
-    "polarity": "positive"
-  },
-  {
-    "_id": 143,
-    "order": 143,
-    "type": "scale",
-    "question": "I like to build a network of contacts or partners who will support my business.",
-    "test": "CAS",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5041,9 +4740,8 @@
   },
   {
     "_id": 144,
-    "order": 144,
     "type": "scale",
-    "question": "I like to start a firm and keep it growing.",
+    "question": "I like to build a network of contacts or partners who will support my business.",
     "test": "CAS",
     "options": [
       {
@@ -5060,8 +4758,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5080,7 +4777,43 @@
   },
   {
     "_id": 145,
-    "order": 145,
+    "type": "scale",
+    "question": "I like to start a firm and keep it growing.",
+    "test": "CAS",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "EE",
+    "polarity": "positive"
+  },
+  {
+    "_id": 146,
     "type": "scale",
     "question": "I am more supportive than most people.",
     "test": "EG",
@@ -5099,8 +4832,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5116,8 +4848,7 @@
     ]
   },
   {
-    "_id": 146,
-    "order": 146,
+    "_id": 147,
     "type": "scale",
     "question": "Keeping peace is more important than being right.",
     "test": "EG",
@@ -5136,8 +4867,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5153,8 +4883,7 @@
     ]
   },
   {
-    "_id": 147,
-    "order": 147,
+    "_id": 148,
     "type": "scale",
     "question": "People often seek my advice when faced with difficult situations.",
     "test": "EG",
@@ -5173,8 +4902,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5190,8 +4918,7 @@
     ]
   },
   {
-    "_id": 148,
-    "order": 148,
+    "_id": 149,
     "type": "scale",
     "question": "I become easily upset by unexpected events.",
     "test": "EG",
@@ -5210,8 +4937,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5227,8 +4953,7 @@
     ]
   },
   {
-    "_id": 149,
-    "order": 149,
+    "_id": 150,
     "type": "scale",
     "question": "I find it easy to be patient with difficult people.",
     "test": "EG",
@@ -5247,8 +4972,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5264,8 +4988,7 @@
     ]
   },
   {
-    "_id": 150,
-    "order": 150,
+    "_id": 151,
     "type": "scale",
     "question": "I probably have more friends than most people.",
     "test": "EG",
@@ -5284,8 +5007,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5303,8 +5025,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 151,
-    "order": 151,
+    "_id": 152,
     "type": "scale",
     "question": "I prefer to follow established rules and guidelines.",
     "test": "EG",
@@ -5323,8 +5044,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5342,8 +5062,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 152,
-    "order": 152,
+    "_id": 153,
     "type": "scale",
     "question": "It is easy for me to see pictures in my mind's eye.",
     "test": "EG",
@@ -5362,8 +5081,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5381,8 +5099,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 153,
-    "order": 153,
+    "_id": 154,
     "type": "scale",
     "question": "It's easy for me to get along with people who are very different.",
     "test": "EG",
@@ -5401,8 +5118,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5418,8 +5134,7 @@
     ]
   },
   {
-    "_id": 154,
-    "order": 154,
+    "_id": 155,
     "type": "scale",
     "question": "I am musical.",
     "test": "EG",
@@ -5438,8 +5153,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5457,8 +5171,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 155,
-    "order": 155,
+    "_id": 156,
     "type": "scale",
     "question": "I like to conduct research to further advance knowledge in my area of expertise, specialization, or profession.",
     "test": "CAS",
@@ -5477,8 +5190,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5496,8 +5208,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 156,
-    "order": 156,
+    "_id": 157,
     "type": "scale",
     "question": "I like to motivate others working with me to do more than they dreamed they could do.",
     "test": "CAS",
@@ -5516,8 +5227,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5535,8 +5245,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 157,
-    "order": 157,
+    "_id": 158,
     "type": "scale",
     "question": "I like to plan a business (including market analysis, pricing, financing/costs, marketing/sales).",
     "test": "CAS",
@@ -5555,8 +5264,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5574,8 +5282,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 158,
-    "order": 158,
+    "_id": 159,
     "type": "scale",
     "question": "I constantly keep up with the advancing knowledge and skills in my area of expertise, specialization, or profession.",
     "test": "CAS",
@@ -5594,47 +5301,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "EP",
-    "polarity": "positive"
-  },
-  {
-    "_id": 159,
-    "order": 159,
-    "type": "scale",
-    "question": "I like to write research papers/books and make presentations at professional meetings.",
-    "test": "CAS",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5653,7 +5320,43 @@
   },
   {
     "_id": 160,
-    "order": 160,
+    "type": "scale",
+    "question": "I like to write research papers/books and make presentations at professional meetings.",
+    "test": "CAS",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "EP",
+    "polarity": "positive"
+  },
+  {
+    "_id": 161,
     "type": "scale",
     "question": "I have been obsessed with a certain idea or project for a short time but later lost interest.",
     "test": "GRIT",
@@ -5672,8 +5375,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5691,8 +5393,7 @@
     "polarity": "negative"
   },
   {
-    "_id": 161,
-    "order": 161,
+    "_id": 162,
     "type": "scale",
     "question": "I finish whatever I begin.",
     "test": "GRIT",
@@ -5711,8 +5412,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5730,8 +5430,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 162,
-    "order": 162,
+    "_id": 163,
     "type": "scale",
     "question": "I have difficulty maintaining my focus on projects that take more than a few months to complete.",
     "test": "GRIT",
@@ -5750,47 +5449,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "CI",
-    "polarity": "negative"
-  },
-  {
-    "_id": 163,
-    "order": 163,
-    "type": "scale",
-    "question": "New ideas and projects sometimes distract me from previous ones.",
-    "test": "GRIT",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5809,7 +5468,43 @@
   },
   {
     "_id": 164,
-    "order": 164,
+    "type": "scale",
+    "question": "New ideas and projects sometimes distract me from previous ones.",
+    "test": "GRIT",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "CI",
+    "polarity": "negative"
+  },
+  {
+    "_id": 165,
     "type": "scale",
     "question": "Setbacks don't discourage me.",
     "test": "GRIT",
@@ -5828,47 +5523,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "P",
-    "polarity": "positive"
-  },
-  {
-    "_id": 165,
-    "order": 165,
-    "type": "scale",
-    "question": "I am a hard worker.",
-    "test": "GRIT",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5887,7 +5542,43 @@
   },
   {
     "_id": 166,
-    "order": 166,
+    "type": "scale",
+    "question": "I am a hard worker.",
+    "test": "GRIT",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "P",
+    "polarity": "positive"
+  },
+  {
+    "_id": 167,
     "type": "scale",
     "question": "I often set a goal but later choose to pursue a different one.",
     "test": "GRIT",
@@ -5906,8 +5597,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -5925,8 +5615,7 @@
     "polarity": "negative"
   },
   {
-    "_id": 167,
-    "order": 167,
+    "_id": 168,
     "type": "scale",
     "question": "I am diligent.",
     "test": "GRIT",
@@ -5945,47 +5634,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "P",
-    "polarity": "positive"
-  },
-  {
-    "_id": 168,
-    "order": 168,
-    "type": "scale",
-    "question": "My interests change from year to year.",
-    "test": "GRIT",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -6004,7 +5653,43 @@
   },
   {
     "_id": 169,
-    "order": 169,
+    "type": "scale",
+    "question": "My interests change from year to year.",
+    "test": "GRIT",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "P",
+    "polarity": "negative"
+  },
+  {
+    "_id": 170,
     "type": "scale",
     "question": "I have overcome setbacks to conquer an important challenge.",
     "test": "GRIT",
@@ -6023,8 +5708,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -6039,11 +5723,10 @@
       }
     ],
     "category": "CI",
-    "polarity": "negative"
+    "polarity": "positive"
   },
   {
-    "_id": 170,
-    "order": 170,
+    "_id": 171,
     "type": "scale",
     "question": "I like to teach or share with others my knowledge, experience, and expertise in my chosen area of work specialization.",
     "test": "CAS",
@@ -6062,8 +5745,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -6081,8 +5763,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 171,
-    "order": 171,
+    "_id": 172,
     "type": "scale",
     "question": "I like to take charge of decisions needed for a group or organization.",
     "test": "CAS",
@@ -6101,8 +5782,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -6120,8 +5800,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 172,
-    "order": 172,
+    "_id": 173,
     "type": "scale",
     "question": "I like to identify opportunities to start-up viable businesses.",
     "test": "CAS",
@@ -6140,8 +5819,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -6159,8 +5837,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 173,
-    "order": 173,
+    "_id": 174,
     "type": "scale",
     "question": "I like to use rewards and punishments to get people to work harder.",
     "test": "CAS",
@@ -6179,47 +5856,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "EL",
-    "polarity": "positive"
-  },
-  {
-    "_id": 174,
-    "order": 174,
-    "type": "scale",
-    "question": "I like to align and rally people towards a common goal.",
-    "test": "CAS",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -6238,7 +5875,43 @@
   },
   {
     "_id": 175,
-    "order": 175,
+    "type": "scale",
+    "question": "I like to align and rally people towards a common goal.",
+    "test": "CAS",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "EL",
+    "polarity": "positive"
+  },
+  {
+    "_id": 176,
     "type": "scale",
     "question": "I like to design an effective campaign for marketing a new product or service.",
     "test": "CAS",
@@ -6257,47 +5930,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
-      },
-      {
-        "order": 4,
-        "label": 4,
-        "value": 4
-      },
-      {
-        "order": 5,
-        "label": 5,
-        "value": 5,
-        "text": "Strongly agree"
-      }
-    ],
-    "category": "EE",
-    "polarity": "positive"
-  },
-  {
-    "_id": 176,
-    "order": 176,
-    "type": "scale",
-    "question": "I like to come up with ideas for products and services that may be needed in a market.",
-    "test": "CAS",
-    "options": [
-      {
-        "order": 1,
-        "label": 1,
-        "value": 1,
-        "text": "Strongly disagree"
-      },
-      {
-        "order": 2,
-        "label": 2,
-        "value": 2
-      },
-      {
-        "order": 3,
-        "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -6316,7 +5949,43 @@
   },
   {
     "_id": 177,
-    "order": 177,
+    "type": "scale",
+    "question": "I like to come up with ideas for products and services that may be needed in a market.",
+    "test": "CAS",
+    "options": [
+      {
+        "order": 1,
+        "label": 1,
+        "value": 1,
+        "text": "Strongly disagree"
+      },
+      {
+        "order": 2,
+        "label": 2,
+        "value": 2
+      },
+      {
+        "order": 3,
+        "label": 3,
+        "value": 3
+      },
+      {
+        "order": 4,
+        "label": 4,
+        "value": 4
+      },
+      {
+        "order": 5,
+        "label": 5,
+        "value": 5,
+        "text": "Strongly agree"
+      }
+    ],
+    "category": "EE",
+    "polarity": "positive"
+  },
+  {
+    "_id": 178,
     "type": "scale",
     "question": "I like to develop and train future leaders for an organization.",
     "test": "CAS",
@@ -6335,8 +6004,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,
@@ -6354,8 +6022,7 @@
     "polarity": "positive"
   },
   {
-    "_id": 178,
-    "order": 178,
+    "_id": 179,
     "type": "scale",
     "question": "I like to become one of the best experts or professionals in my field of specialization.",
     "test": "CAS",
@@ -6374,8 +6041,7 @@
       {
         "order": 3,
         "label": 3,
-        "value": 3,
-        "text": "Neutral"
+        "value": 3
       },
       {
         "order": 4,

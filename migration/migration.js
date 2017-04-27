@@ -6,6 +6,7 @@ const personalQuestions = require('./personal-questions.json');
 const surveyQuestions = require('./survey-questions.json');
 const tests = require('./tests.json');
 const survey = require('./survey.json');
+const users = require('./users.json');
 
 module.exports = {
     adminHash,
@@ -14,5 +15,6 @@ module.exports = {
     personalQuestions,
     surveyQuestions,
     tests,
-    survey
+    survey,
+    users
 };
