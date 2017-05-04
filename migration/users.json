@@ -6,5 +6,13 @@
     "firstName": "Guan Yang",
     "lastName": "Ang",
     "type": "admin"
+  },
+  {
+    "_id": "R2qg3g26s",
+    "email": "alex.lin@infocomminvestments.com",
+    "password": "sginnovateadmin123",
+    "firstName": "Alex",
+    "lastName": "Lin",
+    "type": "admin"
   }
 ]
