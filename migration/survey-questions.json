@@ -37,7 +37,7 @@
   {
     "_id": 14,
     "type": "scale",
-    "question": "I am practical minded, logical person.",
+    "question": "I am a practical-minded, logical person.",
     "test": "EG",
     "options": [
       {
@@ -4309,7 +4309,7 @@
   {
     "_id": 132,
     "type": "scale",
-    "question": "I am cheerful and even tempered in most situations.",
+    "question": "I am cheerful and even-tempered in most situations.",
     "test": "EG",
     "options": [
       {
