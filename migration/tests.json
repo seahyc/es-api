@@ -1,21 +1,21 @@
 [
   {
     "code": "EG",
-    "name": "Entrepreneurial Profile",
+    "name": "Thinking Preference",
     "baseScore": 0,
     "increment": 1,
     "survey": 1
   },
   {
     "code": "CAS",
-    "name": "Career Aspirations Survey",
+    "name": "Career Inclination",
     "baseScore": 0,
     "increment": 1,
     "survey": 1
   },
   {
     "code": "GRIT",
-    "name": "Grit",
+    "name": "Grit Profile",
     "baseScore": 3,
     "increment": 0.1,
     "survey": 1

@@ -1819,8 +1819,14 @@
     "personalAttribute": "tags"
   },
   {
-    "type": "mcq",
+    "type": "input",
     "_id": 12,
+    "question": "Which organization do you belong to?",
+    "personalAttribute": "organization"
+  },
+  {
+    "type": "mcq",
+    "_id": 13,
     "question": "I agree that the information given in this questionnaire may be used by the organisers of TAG and TAG partners for the purpose of administrating the programme or activities relating to the programme, and that I hereby give consent to the organisers to contact me on relevant activities related to TAG.",
     "personalAttribute": "agreeToMarketing",
     "options": [
