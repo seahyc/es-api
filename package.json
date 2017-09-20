@@ -20,7 +20,7 @@
   "homepage": "https://github.com/devinivy/boilerplate-api",
   "dependencies": {
     "bassmaster": "2.x.x",
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^1.0.3",
     "boom": "4.x.x",
     "dogwater": ">=2.2.0 <3",
     "eslint": "^3.19.0",
