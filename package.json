@@ -36,7 +36,7 @@
     "jsonfile": "^2.4.0",
     "jsonwebtoken": "^7.3.0",
     "labbable": "2.x.x",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "node-mandrill": "^1.0.1",
     "parse-xlsx": "0.0.6",
     "sails-mongo": "^0.12.2",
